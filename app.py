@@ -260,7 +260,7 @@ def run_once():
     stamp = m.group(1) if m else hashlib.sha1(page.encode()).hexdigest()
     shows = state.get("shows", [])
 
-    if stamp != state.get("stamp") or not shows:
+    if stamp != state.get("stamp") or not shows or os.environ.get("FORCE") == "true":
         lines = page_lines(page)
         if len(lines) < 20:
             raise RuntimeError(f"only {len(lines)} listing lines found, page layout may have changed")

@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "17 */6 * * *"  # every 6 hours, off the hour
   workflow_dispatch:
+    inputs:
+      force:
+        description: Re-extract even if the page hasn't changed
+        type: boolean
+        default: false
   push:
     branches: [main]
     paths: [app.py, .github/workflows/update.yml]
@@ -44,6 +49,7 @@ jobs:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           DISABLE_AUTOUPDATER: "1"
           TZ: America/Chicago
+          FORCE: ${{ inputs.force }}
         run: python -u app.py
 
       - name: Commit state
