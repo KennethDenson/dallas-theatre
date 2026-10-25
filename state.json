@@ -1,6 +1,6 @@
 {
- "stamp": "827580213b49bcfa77b7c4b5865cb6424d981203",
- "updated": "2026-10-24T23:54:36.519187-05:00",
+ "stamp": "532db312c41b95ed0c7d065e2d5f36678c4e8c4f",
+ "updated": "2026-10-25T11:33:21.573616-05:00",
  "shows": [
   {
    "company": "Allen Contemporary Theatre",
@@ -300,7 +300,7 @@
    "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
-   "note": "Holiday special listed at end of line"
+   "note": "Holiday run listed at end of season"
   },
   {
    "company": "Broadway Dallas",
@@ -575,12 +575,12 @@
   {
    "company": "Hip Pocket Theatre",
    "title": "Mega Python vs Gatoroid (the Musical)",
-   "start_date": "2026-10-24",
+   "start_date": "2026-10-25",
    "end_date": "2026-11-01",
    "venue": "",
    "premiere": "",
    "website": "https://hippocket.org",
-   "note": "Listed as running thru November 1, but the listing says production is paused; watch for notices"
+   "note": "Listed as 'thru November 1' so start is today. The line also says production paused; watch for notices."
   },
   {
    "company": "Hip Pocket Theatre",
@@ -590,7 +590,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://hippocket.org",
-   "note": "Performing dates at dusk; a community open studio (creating) runs Oct. 21-28"
+   "note": "Performance dates at dusk. Community open studio (creating) runs Oct 21-28, not included as a performance."
   },
   {
    "company": "Jubilee Theatre",
@@ -620,7 +620,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Season 36; venue is the company's new home as stated in the listing"
+   "note": "Venue is the company's new home as stated in the line. Season 36."
   },
   {
    "company": "Kitchen Dog Theater",
@@ -630,7 +630,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Festival; venue is the company's new home as stated in the listing"
+   "note": "Festival, single day."
   },
   {
    "company": "Kitchen Dog Theater",
@@ -640,7 +640,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Festival; one of two listed nights; venue is the company's new home as stated in the listing"
+   "note": "One of two listed nights."
   },
   {
    "company": "Kitchen Dog Theater",
@@ -650,7 +650,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Festival; one of two listed nights; venue is the company's new home as stated in the listing"
+   "note": "One of two listed nights."
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -744,13 +744,13 @@
   },
   {
    "company": "Mainstage Irving-Las Colinas",
-   "title": "Cinderella",
+   "title": "R&H's Cinderella",
    "start_date": "2026-11-06",
    "end_date": "2026-11-22",
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": "STAGE to SCREEN season"
+   "note": "Season is 'STAGE to SCREEN' classics"
   },
   {
    "company": "Mainstage Irving-Las Colinas",
@@ -760,7 +760,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": "STAGE to SCREEN season"
+   "note": "Season is 'STAGE to SCREEN' classics"
   },
   {
    "company": "Mainstage Irving-Las Colinas",
@@ -770,7 +770,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": "STAGE to SCREEN season"
+   "note": "Season is 'STAGE to SCREEN' classics"
   },
   {
    "company": "Mainstage Irving-Las Colinas",
@@ -780,7 +780,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": "STAGE to SCREEN season"
+   "note": "Season is 'STAGE to SCREEN' classics"
   },
   {
    "company": "Mainstage Irving-Las Colinas",
@@ -790,7 +790,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": "STAGE to SCREEN season"
+   "note": "Season is 'STAGE to SCREEN' classics"
   },
   {
    "company": "NTPA Repertory Theatre",
@@ -803,8 +803,18 @@
    "note": ""
   },
   {
+   "company": "Onstage in Bedford",
+   "title": "Every Christmas Story Ever Told",
+   "start_date": "2026-12-03",
+   "end_date": "2026-12-20",
+   "venue": "",
+   "premiere": "",
+   "website": "https://onstageinbedford.com",
+   "note": ""
+  },
+  {
    "company": "Plaza Theatre (Cleburne)",
-   "title": "Singin\u2019 in the Rain",
+   "title": "Singin' in the Rain",
    "start_date": "2026-10-16",
    "end_date": "2026-11-14",
    "venue": "",
@@ -850,7 +860,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://richardsontheatrecentre",
-   "note": "Listing gives the website as 'richardsontheatrecentre' with no domain extension; verify the URL before use."
+   "note": "Source gives the site as 'richardsontheatrecentre' with no domain ending; the URL is incomplete and should be checked."
   },
   {
    "company": "Rover Dramawerks (Plano)",
@@ -863,16 +873,6 @@
    "note": ""
   },
   {
-   "company": "Onstage in Bedford",
-   "title": "Every Christmas Story Ever Told",
-   "start_date": "2026-12-03",
-   "end_date": "2026-12-20",
-   "venue": "",
-   "premiere": "",
-   "website": "https://onstageinbedford.com",
-   "note": ""
-  },
-  {
    "company": "Shakespeare Dallas",
    "title": "Richard II",
    "start_date": "2027-01-22",
@@ -880,17 +880,17 @@
    "venue": "Theatre Three's arena stage space",
    "premiere": "",
    "website": "https://shakespearedallas.org",
-   "note": "Part of the 'Shakespeare in the Round' series; listing says it is indoors this winter."
+   "note": "Part of the 'Shakespeare in the Round' series; listed as a winter indoor run."
   },
   {
-   "company": "Shakespeare LIVE!\u2026 Arlington",
+   "company": "Shakespeare LIVE!",
    "title": "Macbeth",
    "start_date": "2026-10-29",
    "end_date": "2026-10-31",
    "venue": "Levitt Pavilion",
    "premiere": "",
    "website": "https://shakespearelive.org",
-   "note": "Free, outdoors. Line has no colon, so company name is taken from the start of the line."
+   "note": "Free, outdoors; Halloween-weekend show"
   },
   {
    "company": "Soul Rep Theatre",
@@ -900,7 +900,7 @@
    "venue": "Bryant Hall",
    "premiere": "",
    "website": "https://soulrep.org",
-   "note": "2026-2027 season"
+   "note": ""
   },
   {
    "company": "Soul Rep Theatre",
@@ -910,7 +910,7 @@
    "venue": "South Dallas Cultural Center",
    "premiere": "",
    "website": "https://soulrep.org",
-   "note": "2026-2027 season"
+   "note": ""
   },
   {
    "company": "Soul Rep Theatre",
@@ -920,7 +920,7 @@
    "venue": "Bryant Hall",
    "premiere": "",
    "website": "https://soulrep.org",
-   "note": "2026-2027 season"
+   "note": ""
   },
   {
    "company": "Stage West",
@@ -930,7 +930,7 @@
    "venue": "",
    "premiere": "regional",
    "website": "https://stagewest.org",
-   "note": "Season 48, 2026-2027"
+   "note": "Season 48"
   },
   {
    "company": "Stage West",
@@ -940,7 +940,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://stagewest.org",
-   "note": "Season extra, Season 48"
+   "note": "Season extra, back by audience demand"
   },
   {
    "company": "Stage West",
@@ -950,7 +950,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://stagewest.org",
-   "note": "Season 48, 2026-2027"
+   "note": "Season 48"
   },
   {
    "company": "Stage West",
@@ -960,7 +960,7 @@
    "venue": "",
    "premiere": "world",
    "website": "https://stagewest.org",
-   "note": "Season 48, 2026-2027"
+   "note": "Season 48"
   },
   {
    "company": "Stage West",
@@ -970,7 +970,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://stagewest.org",
-   "note": "Season 48, 2026-2027"
+   "note": "Season 48"
   },
   {
    "company": "Stage West",
@@ -980,7 +980,7 @@
    "venue": "",
    "premiere": "regional",
    "website": "https://stagewest.org",
-   "note": "Season 48, 2026-2027"
+   "note": "Season 48"
   },
   {
    "company": "Stage West",
@@ -990,37 +990,37 @@
    "venue": "",
    "premiere": "",
    "website": "https://stagewest.org",
-   "note": "Season 48, 2026-2027"
+   "note": "Season 48"
   },
   {
    "company": "Stolen Shakespeare Guild",
    "title": "As You Like It",
    "start_date": "2026-10-09",
    "end_date": "2026-11-01",
-   "venue": "",
+   "venue": "3623 Decatur Avenue, Fort Worth",
    "premiere": "",
    "website": "https://www.stolenshakespeareguild.org",
-   "note": "Company address listed as 3623 Decatur Avenue, Fort Worth"
+   "note": ""
   },
   {
    "company": "Stolen Shakespeare Guild",
    "title": "King Lear",
    "start_date": "2026-10-16",
    "end_date": "2026-10-31",
-   "venue": "",
+   "venue": "3623 Decatur Avenue, Fort Worth",
    "premiere": "",
    "website": "https://www.stolenshakespeareguild.org",
-   "note": "Rotating repertory"
+   "note": "In rotating rep"
   },
   {
    "company": "Stolen Shakespeare Guild",
    "title": "White Christmas",
    "start_date": "2026-12-04",
    "end_date": "2026-12-20",
-   "venue": "",
+   "venue": "3623 Decatur Avenue, Fort Worth",
    "premiere": "",
    "website": "https://www.stolenshakespeareguild.org",
-   "note": "Company address listed as 3623 Decatur Avenue, Fort Worth"
+   "note": ""
   },
   {
    "company": "Theatre Arlington",
@@ -1117,7 +1117,7 @@
    "title": "I am My Own Wife",
    "start_date": "2026-10-15",
    "end_date": "2026-11-03",
-   "venue": "Downstairs @ Theatre Too",
+   "venue": "Theatre Too (Downstairs)",
    "premiere": "",
    "website": "https://theatre3dallas.com",
    "note": ""
@@ -1127,7 +1127,7 @@
    "title": "Dear Jack, Dear Louise",
    "start_date": "2027-02-04",
    "end_date": "2027-02-21",
-   "venue": "Downstairs @ Theatre Too",
+   "venue": "Theatre Too (Downstairs)",
    "premiere": "",
    "website": "https://theatre3dallas.com",
    "note": ""
@@ -1137,7 +1137,7 @@
    "title": "Miss Margarida's Way",
    "start_date": "2027-04-29",
    "end_date": "2027-05-16",
-   "venue": "Downstairs @ Theatre Too",
+   "venue": "Theatre Too (Downstairs)",
    "premiere": "",
    "website": "https://theatre3dallas.com",
    "note": ""
@@ -1150,7 +1150,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://www.undermain.org",
-   "note": "Season 43, 2026-2027"
+   "note": "Season 43"
   },
   {
    "company": "Undermain Theatre",
@@ -1160,7 +1160,7 @@
    "venue": "",
    "premiere": "regional",
    "website": "https://www.undermain.org",
-   "note": "Season 43, 2026-2027"
+   "note": "Season 43"
   },
   {
    "company": "Undermain Theatre",
@@ -1170,47 +1170,47 @@
    "venue": "",
    "premiere": "",
    "website": "https://www.undermain.org",
-   "note": "Season 43, 2026-2027"
+   "note": "Season 43"
   },
   {
-   "company": "Upright Theatre Company (adult & youth productions)",
+   "company": "Upright Theatre Company",
    "title": "Misery",
    "start_date": "2026-10-02",
    "end_date": "2026-10-25",
    "venue": "",
    "premiere": "",
    "website": "https://uprighttheatre.org",
-   "note": "Currently running"
+   "note": "Adult production; closes today"
   },
   {
-   "company": "Upright Theatre Company (adult & youth productions)",
+   "company": "Upright Theatre Company",
    "title": "Annie JR.",
    "start_date": "2026-11-14",
    "end_date": "2026-12-19",
    "venue": "",
    "premiere": "",
    "website": "https://uprighttheatre.org",
-   "note": ""
+   "note": "Youth production"
   },
   {
    "company": "Uptown Players",
-   "title": "Road to Carnegie: Me, Judy, and Myself",
+   "title": "Me, Judy, and Myself",
    "start_date": "2026-11-07",
    "end_date": "2026-11-07",
    "venue": "",
    "premiere": "",
    "website": "https://uptownplayers.org",
-   "note": "Listed as November 7/8; one entry for each night"
+   "note": "Road to Carnegie series; one entry per night"
   },
   {
    "company": "Uptown Players",
-   "title": "Road to Carnegie: Me, Judy, and Myself",
+   "title": "Me, Judy, and Myself",
    "start_date": "2026-11-08",
    "end_date": "2026-11-08",
    "venue": "",
    "premiere": "",
    "website": "https://uptownplayers.org",
-   "note": "Listed as November 7/8; one entry for each night"
+   "note": "Road to Carnegie series; one entry per night"
   },
   {
    "company": "Uptown Players",
@@ -1250,7 +1250,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://www.watertowertheatre.org",
-   "note": "Source URL was cut off in the listing; company homepage used"
+   "note": "Source link was cut off after /Fa; listing may have more shows"
   },
   {
    "company": "WaterTower Theatre",
@@ -1260,7 +1260,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://www.watertowertheatre.org",
-   "note": "Source URL was cut off in the listing; company homepage used"
+   "note": "Source link was cut off after /Fa; listing may have more shows"
   },
   {
    "company": "WaterTower Theatre",
@@ -1270,7 +1270,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://www.watertowertheatre.org",
-   "note": "Source URL was cut off in the listing; company homepage used"
+   "note": "Source link was cut off after /Fa; listing may have more shows"
   }
  ]
 }
