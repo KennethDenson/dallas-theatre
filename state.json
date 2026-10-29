@@ -1,6 +1,6 @@
 {
- "stamp": "88951f49ce6031b0f087b038c71b296cc80cde5d",
- "updated": "2026-10-28T17:43:02.494750-05:00",
+ "stamp": "6154b1681adcff69f887b2dddca1378291f8b3ea",
+ "updated": "2026-10-29T00:58:26.820278-05:00",
  "shows": [
   {
    "company": "Allen Contemporary Theatre",
@@ -20,7 +20,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://amphibianstage.com",
-   "note": "Main stage"
+   "note": "Next on the main stage"
   },
   {
    "company": "Art Centre Theatre (Plano)",
@@ -74,7 +74,7 @@
   },
   {
    "company": "ATTPAC",
-   "title": "The Who\u2019s Tommy",
+   "title": "The Who's Tommy",
    "start_date": "2027-06-03",
    "end_date": "2027-06-05",
    "venue": "",
@@ -164,7 +164,7 @@
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
-   "title": "Disney\u2019s Beauty and the Beast",
+   "title": "Disney's Beauty and the Beast",
    "start_date": "2027-05-25",
    "end_date": "2027-05-30",
    "venue": "",
@@ -200,7 +200,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Broadway at the Bass 2026-2027 season; year inferred from list order"
+   "note": "Broadway at the Bass 2026-2027 season"
   },
   {
    "company": "Bishop Arts Theatre Center",
@@ -254,7 +254,7 @@
   },
   {
    "company": "Broadway Dallas",
-   "title": "Hell\u2019s Kitchen",
+   "title": "Hell's Kitchen",
    "start_date": "2027-02-03",
    "end_date": "2027-02-14",
    "venue": "Music Hall in Fair Park",
@@ -294,13 +294,13 @@
   },
   {
    "company": "Broadway Dallas",
-   "title": "Dr. Seuss\u2019 How the Grinch Stole Christmas! The Musical",
+   "title": "Dr. Seuss' How the Grinch Stole Christmas! The Musical",
    "start_date": "2026-11-25",
    "end_date": "2026-11-29",
    "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
-   "note": "Holiday special listed at end of line"
+   "note": "Holiday special"
   },
   {
    "company": "Broadway Dallas",
@@ -334,7 +334,7 @@
   },
   {
    "company": "Casa Manana",
-   "title": "Thank God I\u2019m a Country Boy: The Music of John Denver",
+   "title": "Thank God I'm a Country Boy: The Music of John Denver",
    "start_date": "2026-10-06",
    "end_date": "2026-11-01",
    "venue": "The Reid Cabaret Theatre",
@@ -344,7 +344,7 @@
   },
   {
    "company": "Casa Manana",
-   "title": "Disney\u2019s Frozen\u2014The Musical",
+   "title": "Disney's Frozen\u2014The Musical",
    "start_date": "2026-11-07",
    "end_date": "2026-11-15",
    "venue": "",
@@ -364,7 +364,7 @@
   },
   {
    "company": "Circle Theatre",
-   "title": "Ain\u2019t Misbehavin\u2019",
+   "title": "Ain't Misbehavin'",
    "start_date": "2026-10-01",
    "end_date": "2026-10-25",
    "venue": "",
@@ -403,7 +403,7 @@
    "note": ""
   },
   {
-   "company": "Dallas Children\u2019s Theater",
+   "company": "Dallas Children's Theater",
    "title": "Rudolph the Red-Nosed Reindeer",
    "start_date": "2026-11-21",
    "end_date": "2026-12-20",
@@ -510,7 +510,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://garlandcivic.org",
-   "note": "Dates have already ended as of 2026-10-28; included because they fall inside the listing window."
+   "note": ""
   },
   {
    "company": "Garland Civic Theatre",
@@ -553,26 +553,6 @@
    "note": ""
   },
   {
-   "company": "Hip Pocket Theatre",
-   "title": "Mega Python vs Gatoroid (the Musical)",
-   "start_date": "2026-10-28",
-   "end_date": "2026-11-01",
-   "venue": "",
-   "premiere": "",
-   "website": "https://hippocket.org",
-   "note": "Listed as running through November 1; production paused, watch for notices. Start date set to today because the listing says 'thru November 1'."
-  },
-  {
-   "company": "Hip Pocket Theatre",
-   "title": "The 4th Annual Twilight Soiree",
-   "start_date": "2026-10-29",
-   "end_date": "2026-10-31",
-   "venue": "",
-   "premiere": "",
-   "website": "https://hippocket.org",
-   "note": "Performances at dusk. Community open studio Oct. 21-28 (creating) is not included as a performance."
-  },
-  {
    "company": "Grand Prairie Arts Council",
    "title": "Puffs",
    "start_date": "2026-10-15",
@@ -593,6 +573,26 @@
    "note": ""
   },
   {
+   "company": "Hip Pocket Theatre",
+   "title": "Mega Python vs Gatoroid (the Musical)",
+   "start_date": "2026-10-29",
+   "end_date": "2026-11-01",
+   "venue": "",
+   "premiere": "",
+   "website": "https://hippocket.org",
+   "note": "Listed as 'thru November 1' so start set to today. Listing also says production is paused; watch for notices."
+  },
+  {
+   "company": "Hip Pocket Theatre",
+   "title": "The 4th Annual Twilight Soiree",
+   "start_date": "2026-10-29",
+   "end_date": "2026-10-31",
+   "venue": "",
+   "premiere": "",
+   "website": "https://hippocket.org",
+   "note": "Performing nights at dusk. The community open studio (Oct. 21-28) is creating time, not performances, so it is omitted."
+  },
+  {
    "company": "Jubilee Theatre",
    "title": "I'll Be Damned If\u2026",
    "start_date": "2026-10-02",
@@ -600,7 +600,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://jubileetheatre.org",
-   "note": "Season 45. Dates have already ended as of 2026-10-28; included because they fall inside the listing window."
+   "note": "Season 45"
   },
   {
    "company": "Jubilee Theatre",
@@ -617,40 +617,40 @@
    "title": "Equivocation",
    "start_date": "2027-02-04",
    "end_date": "2027-02-28",
-   "venue": "",
+   "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Season 36. Company's new home: 4774 Algiers, Dallas."
+   "note": "Season 36. Listing says the company is in its new home at 4774 Algiers, Dallas."
   },
   {
    "company": "Kitchen Dog Theater",
    "title": "D-PAC PUP Fest",
    "start_date": "2027-06-06",
    "end_date": "2027-06-06",
-   "venue": "",
+   "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Festival, single date. Company's new home: 4774 Algiers, Dallas."
+   "note": "Listing says the company is in its new home at 4774 Algiers, Dallas."
   },
   {
    "company": "Kitchen Dog Theater",
    "title": "New Works Festival 2027",
    "start_date": "2027-06-13",
    "end_date": "2027-06-13",
-   "venue": "",
+   "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Festival, one of two listed nights. Company's new home: 4774 Algiers, Dallas."
+   "note": "Single night; listed with June 27 as a second date. Listing says the company is in its new home at 4774 Algiers, Dallas."
   },
   {
    "company": "Kitchen Dog Theater",
    "title": "New Works Festival 2027",
    "start_date": "2027-06-27",
    "end_date": "2027-06-27",
-   "venue": "",
+   "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Festival, one of two listed nights. Company's new home: 4774 Algiers, Dallas."
+   "note": "Single night; listed with June 13 as a second date. Listing says the company is in its new home at 4774 Algiers, Dallas."
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -700,11 +700,11 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": "2027 season"
+   "note": "2027 season; last show of the season, so dates fall in late 2027"
   },
   {
    "company": "Lewisville Playhouse",
-   "title": "The Game's Afoot: Holmes for the Holidays",
+   "title": "The Game\u2019s Afoot: Holmes for the Holidays",
    "start_date": "2026-12-04",
    "end_date": "2026-12-20",
    "venue": "",
@@ -840,7 +840,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://pocketsandwich.com",
-   "note": "Improv, music, adult comedy nights and TBA shows on the same line have no concrete dates, so they are omitted."
+   "note": ""
   },
   {
    "company": "Pocket Sandwich Theatre",
@@ -853,54 +853,44 @@
    "note": ""
   },
   {
-   "company": "Rover Dramawerks (Plano)",
-   "title": "Making God Laugh",
-   "start_date": "2026-11-05",
-   "end_date": "2026-11-22",
-   "venue": "",
-   "premiere": "",
-   "website": "https://roverdramawerks.com",
-   "note": "(Plano) is the company location, not a venue for the show."
-  },
-  {
    "company": "Richardson Theatre Centre",
    "title": "Night Watch",
    "start_date": "2026-10-09",
    "end_date": "2026-11-01",
    "venue": "",
    "premiere": "",
-   "website": "https://richardsontheatrecentre",
-   "note": "Website was given without a domain extension in the listing; please verify the URL."
+   "website": "",
+   "note": "Listing gives the site only as 'richardsontheatrecentre' with no domain extension, so the website is left blank rather than guessed."
   },
   {
-   "company": "Second Thought Theatre",
-   "title": "TBA",
-   "start_date": "2026-12-02",
-   "end_date": "2026-12-19",
+   "company": "Rover Dramawerks",
+   "title": "Making God Laugh",
+   "start_date": "2026-11-05",
+   "end_date": "2026-11-22",
    "venue": "",
    "premiere": "",
-   "website": "https://secondthoughttheatre.com",
-   "note": "A play in a season of partnerships with Dallas' Watering Hole Collective; the title is not yet announced."
+   "website": "https://roverdramawerks.com",
+   "note": "Plano is the company's location, not a venue for this show."
   },
   {
    "company": "Shakespeare Dallas",
    "title": "Richard II",
    "start_date": "2027-01-22",
    "end_date": "2027-01-31",
-   "venue": "Theatre Three's arena stage space",
+   "venue": "Theatre Three (arena stage space, indoors)",
    "premiere": "",
    "website": "https://shakespearedallas.org",
-   "note": "Shakespeare in the Round, held indoors."
+   "note": "Shakespeare in the Round winter production; year 2027 stated in the listing."
   },
   {
-   "company": "Shakespeare LIVE! Arlington",
+   "company": "Shakespeare LIVE!\u2026 Arlington",
    "title": "Macbeth",
    "start_date": "2026-10-29",
    "end_date": "2026-10-31",
    "venue": "Levitt Pavilion",
    "premiere": "",
    "website": "https://shakespearelive.org",
-   "note": "Free outdoor show; company name taken from the line, which has no colon after it"
+   "note": "Free, outdoors. Listing says Halloween performances."
   },
   {
    "company": "Soul Rep Theatre",
@@ -910,7 +900,7 @@
    "venue": "Bryant Hall",
    "premiere": "",
    "website": "https://soulrep.org",
-   "note": ""
+   "note": "2026-2027 season"
   },
   {
    "company": "Soul Rep Theatre",
@@ -920,7 +910,7 @@
    "venue": "South Dallas Cultural Center",
    "premiere": "",
    "website": "https://soulrep.org",
-   "note": ""
+   "note": "2026-2027 season"
   },
   {
    "company": "Soul Rep Theatre",
@@ -930,7 +920,7 @@
    "venue": "Bryant Hall",
    "premiere": "",
    "website": "https://soulrep.org",
-   "note": ""
+   "note": "2026-2027 season"
   },
   {
    "company": "Stage West",
@@ -950,7 +940,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://stagewest.org",
-   "note": "Season extra"
+   "note": "Season extra, back by audience demand"
   },
   {
    "company": "Stage West",
@@ -1007,27 +997,27 @@
    "title": "As You Like It",
    "start_date": "2026-10-09",
    "end_date": "2026-11-01",
-   "venue": "",
+   "venue": "3623 Decatur Avenue, Fort Worth",
    "premiere": "",
    "website": "https://www.stolenshakespeareguild.org",
-   "note": "Company address listed in the line: 3623 Decatur Avenue, Fort Worth (not tied to a specific show)"
+   "note": ""
   },
   {
    "company": "Stolen Shakespeare Guild",
    "title": "King Lear",
    "start_date": "2026-10-16",
    "end_date": "2026-10-31",
-   "venue": "",
+   "venue": "3623 Decatur Avenue, Fort Worth",
    "premiere": "",
    "website": "https://www.stolenshakespeareguild.org",
-   "note": "Rotating repertory with As You Like It"
+   "note": "In rotating rep with As You Like It"
   },
   {
    "company": "Stolen Shakespeare Guild",
    "title": "White Christmas",
    "start_date": "2026-12-04",
    "end_date": "2026-12-20",
-   "venue": "",
+   "venue": "3623 Decatur Avenue, Fort Worth",
    "premiere": "",
    "website": "https://www.stolenshakespeareguild.org",
    "note": ""
@@ -1083,14 +1073,14 @@
    "note": ""
   },
   {
-   "company": "Theatre Off the Square (Weatherford)",
+   "company": "Theatre Off the Square",
    "title": "Dracula: A Comedy of Terrors",
    "start_date": "2026-10-16",
    "end_date": "2026-11-07",
    "venue": "",
    "premiere": "",
    "website": "https://www.theatreoffthesquare.org",
-   "note": "Source URL was http; upgraded to https"
+   "note": "Weatherford"
   },
   {
    "company": "Theatre Three",
@@ -1100,7 +1090,7 @@
    "venue": "Main stage",
    "premiere": "",
    "website": "https://theatre3dallas.com",
-   "note": "Season 2026-2027"
+   "note": "2026-2027 season"
   },
   {
    "company": "Theatre Three",
@@ -1110,7 +1100,7 @@
    "venue": "Main stage",
    "premiere": "",
    "website": "https://theatre3dallas.com",
-   "note": "Season 2026-2027"
+   "note": "2026-2027 season"
   },
   {
    "company": "Theatre Three",
@@ -1120,7 +1110,7 @@
    "venue": "Main stage",
    "premiere": "",
    "website": "https://theatre3dallas.com",
-   "note": "Season 2026-2027"
+   "note": "2026-2027 season"
   },
   {
    "company": "Theatre Three",
@@ -1130,7 +1120,7 @@
    "venue": "Downstairs @ Theatre Too",
    "premiere": "",
    "website": "https://theatre3dallas.com",
-   "note": "Season 2026-2027"
+   "note": "2026-2027 season"
   },
   {
    "company": "Theatre Three",
@@ -1140,7 +1130,7 @@
    "venue": "Downstairs @ Theatre Too",
    "premiere": "",
    "website": "https://theatre3dallas.com",
-   "note": "Season 2026-2027"
+   "note": "2026-2027 season"
   },
   {
    "company": "Theatre Three",
@@ -1150,7 +1140,7 @@
    "venue": "Downstairs @ Theatre Too",
    "premiere": "",
    "website": "https://theatre3dallas.com",
-   "note": "Season 2026-2027"
+   "note": "2026-2027 season"
   },
   {
    "company": "Undermain Theatre",
@@ -1190,7 +1180,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://uprighttheatre.org",
-   "note": "Ended before today (2026-10-28)"
+   "note": "Adult production"
   },
   {
    "company": "Upright Theatre Company",
@@ -1204,23 +1194,23 @@
   },
   {
    "company": "Uptown Players",
-   "title": "Road to Carnegie: Me, Judy, and Myself",
+   "title": "Me, Judy, and Myself",
    "start_date": "2026-11-07",
    "end_date": "2026-11-07",
    "venue": "",
    "premiere": "",
    "website": "https://uptownplayers.org",
-   "note": "Listed as November 7/8; one entry per night"
+   "note": "Road to Carnegie series; listed as November 7/8, so one entry per night"
   },
   {
    "company": "Uptown Players",
-   "title": "Road to Carnegie: Me, Judy, and Myself",
+   "title": "Me, Judy, and Myself",
    "start_date": "2026-11-08",
    "end_date": "2026-11-08",
    "venue": "",
    "premiere": "",
    "website": "https://uptownplayers.org",
-   "note": "Listed as November 7/8; one entry per night"
+   "note": "Road to Carnegie series; listed as November 7/8, so one entry per night"
   },
   {
    "company": "Uptown Players",
@@ -1234,13 +1224,13 @@
   },
   {
    "company": "Uptown Players",
-   "title": "Broadway Our Way: No Passport Required",
+   "title": "No Passport Required",
    "start_date": "2027-03-18",
    "end_date": "2027-03-21",
    "venue": "",
    "premiere": "",
    "website": "https://uptownplayers.org",
-   "note": ""
+   "note": "Broadway Our Way series"
   },
   {
    "company": "Uptown Players",
@@ -1260,7 +1250,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://www.watertowertheatre.org",
-   "note": "Source URL was cut off in the listing; base site used"
+   "note": "Source URL was truncated in the listing; used the site root"
   },
   {
    "company": "WaterTower Theatre",
@@ -1270,7 +1260,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://www.watertowertheatre.org",
-   "note": "Source URL was cut off in the listing; base site used"
+   "note": "Source URL was truncated in the listing; used the site root"
   },
   {
    "company": "WaterTower Theatre",
@@ -1280,7 +1270,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://www.watertowertheatre.org",
-   "note": "Source URL was cut off in the listing; base site used"
+   "note": "Source URL was truncated in the listing; used the site root"
   },
   {
    "company": "Upright Theatre Company (adult & youth productions)",
