@@ -1,6 +1,6 @@
 {
- "stamp": "4944ffb9299ee4a3c0cfc2e1ea832d7a2e40d70f",
- "updated": "2026-10-30T00:59:35.230505-05:00",
+ "stamp": "d976d010599910f3b7d39d016ce0fe981d61ec08",
+ "updated": "2026-10-30T08:08:22.721682-05:00",
  "shows": [
   {
    "company": "Allen Contemporary Theatre",
@@ -74,7 +74,7 @@
   },
   {
    "company": "ATTPAC",
-   "title": "The Who's Tommy",
+   "title": "The Who\u2019s Tommy",
    "start_date": "2027-06-03",
    "end_date": "2027-06-05",
    "venue": "",
@@ -164,7 +164,7 @@
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
-   "title": "Disney's Beauty and the Beast",
+   "title": "Disney\u2019s Beauty and the Beast",
    "start_date": "2027-05-25",
    "end_date": "2027-05-30",
    "venue": "",
@@ -254,7 +254,7 @@
   },
   {
    "company": "Broadway Dallas",
-   "title": "Hell's Kitchen",
+   "title": "Hell\u2019s Kitchen",
    "start_date": "2027-02-03",
    "end_date": "2027-02-14",
    "venue": "Music Hall in Fair Park",
@@ -294,7 +294,7 @@
   },
   {
    "company": "Broadway Dallas",
-   "title": "Dr. Seuss' How the Grinch Stole Christmas! The Musical",
+   "title": "Dr. Seuss\u2019 How the Grinch Stole Christmas! The Musical",
    "start_date": "2026-11-25",
    "end_date": "2026-11-29",
    "venue": "Music Hall in Fair Park",
@@ -334,7 +334,7 @@
   },
   {
    "company": "Casa Manana",
-   "title": "Thank God I'm a Country Boy: The Music of John Denver",
+   "title": "Thank God I\u2019m a Country Boy: The Music of John Denver",
    "start_date": "2026-10-06",
    "end_date": "2026-11-01",
    "venue": "The Reid Cabaret Theatre",
@@ -344,7 +344,7 @@
   },
   {
    "company": "Casa Manana",
-   "title": "Disney's Frozen\u2014The Musical",
+   "title": "Disney\u2019s Frozen\u2014The Musical",
    "start_date": "2026-11-07",
    "end_date": "2026-11-15",
    "venue": "",
@@ -364,23 +364,13 @@
   },
   {
    "company": "Circle Theatre",
-   "title": "Ain't Misbehavin'",
-   "start_date": "2026-10-01",
-   "end_date": "2026-10-25",
-   "venue": "",
-   "premiere": "",
-   "website": "https://circletheatre.com",
-   "note": "Season 45"
-  },
-  {
-   "company": "Circle Theatre",
    "title": "Scrooge in Rouge",
    "start_date": "2026-11-19",
    "end_date": "2026-12-12",
    "venue": "",
    "premiere": "",
    "website": "https://circletheatre.com",
-   "note": "Season 45"
+   "note": "Season 45; title repeated in source line"
   },
   {
    "company": "The Classics Theatre Project",
@@ -403,7 +393,7 @@
    "note": ""
   },
   {
-   "company": "Dallas Children's Theater",
+   "company": "Dallas Children\u2019s Theater",
    "title": "Rudolph the Red-Nosed Reindeer",
    "start_date": "2026-11-21",
    "end_date": "2026-12-20",
@@ -510,7 +500,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://garlandcivic.org",
-   "note": ""
+   "note": "Run began before today and is still listed; included because it falls in the listing window."
   },
   {
    "company": "Garland Civic Theatre",
@@ -580,7 +570,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://hippocket.org",
-   "note": "Listed as running thru November 1 (already running, so start is today). The line also says the HPT 50th season production is paused; watch for notices."
+   "note": "Listing says 'production paused; watch for notices'. Start date is today because the listing says 'thru November 1'."
   },
   {
    "company": "Hip Pocket Theatre",
@@ -590,7 +580,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://hippocket.org",
-   "note": "Performing dates only (at dusk). The Oct. 21-28 community open studio is creating time, not performances, so it is excluded."
+   "note": "Performance dates at dusk only. The community open studio Oct. 21-28 is not a performance, so it is left out."
   },
   {
    "company": "Jubilee Theatre",
@@ -600,7 +590,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://jubileetheatre.org",
-   "note": ""
+   "note": "Season 45."
   },
   {
    "company": "Jubilee Theatre",
@@ -610,7 +600,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://jubileetheatre.org",
-   "note": ""
+   "note": "Season 45."
   },
   {
    "company": "Kitchen Dog Theater",
@@ -620,7 +610,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Venue is the company's stated new home for the season, not a per-show venue."
+   "note": "Season 36. Venue is the company's stated new home; the line does not give a venue for each show individually."
   },
   {
    "company": "Kitchen Dog Theater",
@@ -630,7 +620,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Festival, single day. Venue is the company's stated new home; year 2027 inferred from the season list."
+   "note": "Venue is the company's stated new home; the line does not give a venue for each show individually."
   },
   {
    "company": "Kitchen Dog Theater",
@@ -640,7 +630,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "One of two listed nights. Venue is the company's stated new home."
+   "note": "One of two listed nights. Venue is the company's stated new home; the line does not give a venue for each show individually."
   },
   {
    "company": "Kitchen Dog Theater",
@@ -650,7 +640,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "One of two listed nights. Venue is the company's stated new home."
+   "note": "One of two listed nights. Venue is the company's stated new home; the line does not give a venue for each show individually."
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -660,7 +650,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": ""
+   "note": "2027 season."
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -670,7 +660,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": ""
+   "note": "2027 season."
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -680,7 +670,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": ""
+   "note": "2027 season."
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -690,7 +680,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": ""
+   "note": "2027 season."
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -700,7 +690,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": "Falls in the 2027 season (last show listed), so the year is 2027."
+   "note": "2027 season; the listing's last show, so it falls in late 2027."
   },
   {
    "company": "Lewisville Playhouse",
@@ -750,7 +740,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": "Dropped the R&H credit from the title."
+   "note": "Listed as 'R&H's Cinderella'; the R&H authorship credit was dropped."
   },
   {
    "company": "Mainstage Irving-Las Colinas",
@@ -820,7 +810,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://plazatheatre.com",
-   "note": "Already running; start date is the stated run start."
+   "note": "Already running; listed run began October 16."
   },
   {
    "company": "Plaza Theatre (Cleburne)",
@@ -840,7 +830,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://pocketsandwich.com",
-   "note": "Already running; start date is the stated run start."
+   "note": "Already running; listed run began October 2."
   },
   {
    "company": "Pocket Sandwich Theatre",
@@ -859,8 +849,8 @@
    "end_date": "2026-11-01",
    "venue": "",
    "premiere": "",
-   "website": "https://richardsontheatrecentre.com",
-   "note": "Line lists the site as 'richardsontheatrecentre' with no domain; .com was assumed."
+   "website": "",
+   "note": "Listing gives the site as 'richardsontheatrecentre' with no domain extension, so the website is left blank rather than guessed."
   },
   {
    "company": "Rover Dramawerks (Plano)",
@@ -880,7 +870,7 @@
    "venue": "Theatre Three (arena stage space)",
    "premiere": "",
    "website": "https://shakespearedallas.org",
-   "note": "Indoor staging; listing says 2027 by the January 22-31, 2027 date."
+   "note": "Part of 'Shakespeare in the Round'; indoor winter run. Year 2027 stated in listing."
   },
   {
    "company": "Shakespeare LIVE!\u2026 Arlington",
@@ -1000,7 +990,7 @@
    "venue": "3623 Decatur Avenue, Fort Worth",
    "premiere": "",
    "website": "https://www.stolenshakespeareguild.org",
-   "note": "Venue taken from the company address in the line"
+   "note": ""
   },
   {
    "company": "Stolen Shakespeare Guild",
@@ -1010,7 +1000,7 @@
    "venue": "3623 Decatur Avenue, Fort Worth",
    "premiere": "",
    "website": "https://www.stolenshakespeareguild.org",
-   "note": "Rotating repertory"
+   "note": "In rotating rep"
   },
   {
    "company": "Stolen Shakespeare Guild",
@@ -1020,7 +1010,7 @@
    "venue": "3623 Decatur Avenue, Fort Worth",
    "premiere": "",
    "website": "https://www.stolenshakespeareguild.org",
-   "note": "Venue taken from the company address in the line"
+   "note": ""
   },
   {
    "company": "Theatre Arlington",
@@ -1174,16 +1164,6 @@
   },
   {
    "company": "Upright Theatre Company",
-   "title": "Misery",
-   "start_date": "2026-10-02",
-   "end_date": "2026-10-25",
-   "venue": "",
-   "premiere": "",
-   "website": "https://uprighttheatre.org",
-   "note": ""
-  },
-  {
-   "company": "Upright Theatre Company",
    "title": "Annie JR.",
    "start_date": "2026-11-14",
    "end_date": "2026-12-19",
@@ -1191,26 +1171,6 @@
    "premiere": "",
    "website": "https://uprighttheatre.org",
    "note": ""
-  },
-  {
-   "company": "Uptown Players",
-   "title": "Road to Carnegie: Me, Judy, and Myself",
-   "start_date": "2026-11-07",
-   "end_date": "2026-11-07",
-   "venue": "",
-   "premiere": "",
-   "website": "https://uptownplayers.org",
-   "note": "Listed as November 7/8; one entry per night"
-  },
-  {
-   "company": "Uptown Players",
-   "title": "Road to Carnegie: Me, Judy, and Myself",
-   "start_date": "2026-11-08",
-   "end_date": "2026-11-08",
-   "venue": "",
-   "premiere": "",
-   "website": "https://uptownplayers.org",
-   "note": "Listed as November 7/8; one entry per night"
   },
   {
    "company": "Uptown Players",
@@ -1250,7 +1210,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://www.watertowertheatre.org",
-   "note": "Source line is truncated; the full season page URL was cut off, so the site root is given"
+   "note": "Listing's URL was cut off after the domain; base domain used"
   },
   {
    "company": "WaterTower Theatre",
@@ -1260,7 +1220,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://www.watertowertheatre.org",
-   "note": "Source line is truncated; the full season page URL was cut off, so the site root is given"
+   "note": "Listing's URL was cut off after the domain; base domain used"
   },
   {
    "company": "WaterTower Theatre",
@@ -1270,7 +1230,27 @@
    "venue": "",
    "premiere": "",
    "website": "https://www.watertowertheatre.org",
-   "note": "Source line is truncated; the full season page URL was cut off, so the site root is given"
+   "note": "Listing's URL was cut off after the domain; base domain used"
+  },
+  {
+   "company": "Circle Theatre",
+   "title": "Ain't Misbehavin'",
+   "start_date": "2026-10-01",
+   "end_date": "2026-10-25",
+   "venue": "",
+   "premiere": "",
+   "website": "https://circletheatre.com",
+   "note": "Season 45"
+  },
+  {
+   "company": "Upright Theatre Company",
+   "title": "Misery",
+   "start_date": "2026-10-02",
+   "end_date": "2026-10-25",
+   "venue": "",
+   "premiere": "",
+   "website": "https://uprighttheatre.org",
+   "note": ""
   },
   {
    "company": "Upright Theatre Company (adult & youth productions)",
