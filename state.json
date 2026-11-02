@@ -1,6 +1,6 @@
 {
- "stamp": "06159d37fa77a6e0c41b9fadfe521860d100282d",
- "updated": "2026-11-02T00:22:02.140065-06:00",
+ "stamp": "f0f0205e45645b11976a5b629b21862cea61f94e",
+ "updated": "2026-11-02T15:48:25.323791-06:00",
  "shows": [
   {
    "company": "Allen Contemporary Theatre",
@@ -20,7 +20,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://amphibianstage.com",
-   "note": "Main stage. Closes before today (2026-11-02)."
+   "note": "Main stage"
   },
   {
    "company": "Art Centre Theatre (Plano)",
@@ -60,7 +60,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://attpac.org",
-   "note": "Broadway at the Center 2026-2027 season."
+   "note": "Broadway at the Center 2026-2027"
   },
   {
    "company": "ATTPAC",
@@ -70,17 +70,17 @@
    "venue": "",
    "premiere": "",
    "website": "https://attpac.org",
-   "note": "Broadway at the Center 2026-2027 season."
+   "note": "Broadway at the Center 2026-2027"
   },
   {
    "company": "ATTPAC",
-   "title": "The Who's Tommy",
+   "title": "The Who\u2019s Tommy",
    "start_date": "2027-06-03",
    "end_date": "2027-06-05",
    "venue": "",
    "premiere": "",
    "website": "https://attpac.org",
-   "note": "Broadway at the Center 2026-2027 season."
+   "note": "Broadway at the Center 2026-2027"
   },
   {
    "company": "ATTPAC",
@@ -90,7 +90,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://attpac.org",
-   "note": "Broadway at the Center 2026-2027 season."
+   "note": "Broadway at the Center 2026-2027"
   },
   {
    "company": "ATTPAC",
@@ -100,7 +100,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://attpac.org",
-   "note": "Add-on show."
+   "note": "Add-on show"
   },
   {
    "company": "ATTPAC",
@@ -110,7 +110,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://attpac.org",
-   "note": "Add-on show."
+   "note": "Add-on show"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
@@ -120,7 +120,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Broadway at the Bass 2026-2027 season."
+   "note": "Broadway at the Bass 2026-2027"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
@@ -130,7 +130,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Add-on show."
+   "note": "Add-on show"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
@@ -140,7 +140,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Add-on show."
+   "note": "Add-on show"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
@@ -150,7 +150,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Broadway at the Bass 2026-2027 season."
+   "note": "Broadway at the Bass 2026-2027"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
@@ -160,17 +160,17 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Broadway at the Bass 2026-2027 season."
+   "note": "Broadway at the Bass 2026-2027"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
-   "title": "Disney's Beauty and the Beast",
+   "title": "Disney\u2019s Beauty and the Beast",
    "start_date": "2027-05-25",
    "end_date": "2027-05-30",
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Broadway at the Bass 2026-2027 season."
+   "note": "Broadway at the Bass 2026-2027"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
@@ -180,7 +180,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Broadway at the Bass 2026-2027 season."
+   "note": "Broadway at the Bass 2026-2027"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
@@ -190,7 +190,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Broadway at the Bass 2026-2027 season."
+   "note": "Broadway at the Bass 2026-2027"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
@@ -200,7 +200,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Broadway at the Bass 2026-2027 season."
+   "note": "Broadway at the Bass 2026-2027"
   },
   {
    "company": "Bishop Arts Theatre Center",
@@ -210,7 +210,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://bishopartstheatre.org",
-   "note": "New Works series."
+   "note": "New Works series"
   },
   {
    "company": "Bishop Arts Theatre Center",
@@ -227,7 +227,7 @@
    "title": "Buena Vista Social Club",
    "start_date": "2026-11-03",
    "end_date": "2026-11-15",
-   "venue": "Music Hall at Fair Park",
+   "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
    "note": ""
@@ -237,7 +237,7 @@
    "title": "The Phantom of the Opera",
    "start_date": "2026-12-16",
    "end_date": "2027-01-03",
-   "venue": "Music Hall at Fair Park",
+   "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
    "note": ""
@@ -254,10 +254,10 @@
   },
   {
    "company": "Broadway Dallas",
-   "title": "Hell's Kitchen",
+   "title": "Hell\u2019s Kitchen",
    "start_date": "2027-02-03",
    "end_date": "2027-02-14",
-   "venue": "Music Hall at Fair Park",
+   "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
    "note": ""
@@ -267,7 +267,7 @@
    "title": "Water for Elephants",
    "start_date": "2027-04-13",
    "end_date": "2027-04-25",
-   "venue": "Music Hall at Fair Park",
+   "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
    "note": ""
@@ -277,7 +277,7 @@
    "title": "Death Becomes Her",
    "start_date": "2027-05-11",
    "end_date": "2027-05-23",
-   "venue": "Music Hall at Fair Park",
+   "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
    "note": ""
@@ -287,17 +287,17 @@
    "title": "Harry Potter and the Cursed Child",
    "start_date": "2027-06-15",
    "end_date": "2027-06-27",
-   "venue": "Music Hall at Fair Park",
+   "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
    "note": ""
   },
   {
    "company": "Broadway Dallas",
-   "title": "Dr. Seuss' How the Grinch Stole Christmas! The Musical",
+   "title": "Dr. Seuss\u2019 How the Grinch Stole Christmas! The Musical",
    "start_date": "2026-11-25",
    "end_date": "2026-11-29",
-   "venue": "Music Hall at Fair Park",
+   "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
    "note": ""
@@ -310,7 +310,7 @@
    "venue": "Winspear",
    "premiere": "",
    "website": "https://broadwaydallas.org",
-   "note": "Add-on show."
+   "note": "Add-on show"
   },
   {
    "company": "Broadway Dallas",
@@ -320,31 +320,31 @@
    "venue": "Winspear",
    "premiere": "",
    "website": "https://broadwaydallas.org",
-   "note": "Add-on show."
+   "note": "Add-on show"
   },
   {
    "company": "Broadway Dallas",
    "title": "The Book of Mormon",
    "start_date": "2027-06-01",
    "end_date": "2027-06-06",
-   "venue": "Music Hall at Fair Park",
+   "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
-   "note": "Add-on show."
+   "note": "Add-on show"
   },
   {
    "company": "Casa Manana",
-   "title": "Thank God I'm a Country Boy: The Music of John Denver",
+   "title": "Thank God I\u2019m a Country Boy: The Music of John Denver",
    "start_date": "2026-10-06",
    "end_date": "2026-11-01",
    "venue": "The Reid Cabaret Theatre",
    "premiere": "",
    "website": "https://casamanana.org",
-   "note": "Closes before today (2026-11-02)."
+   "note": ""
   },
   {
    "company": "Casa Manana",
-   "title": "Disney's Frozen\u2014The Musical",
+   "title": "Disney\u2019s Frozen\u2014The Musical",
    "start_date": "2026-11-07",
    "end_date": "2026-11-15",
    "venue": "",
@@ -370,7 +370,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://circletheatre.com",
-   "note": "Season 45."
+   "note": "Season 45"
   },
   {
    "company": "The Classics Theatre Project",
@@ -393,7 +393,7 @@
    "note": ""
   },
   {
-   "company": "Dallas Children's Theater",
+   "company": "Dallas Children\u2019s Theater",
    "title": "Rudolph the Red-Nosed Reindeer",
    "start_date": "2026-11-21",
    "end_date": "2026-12-20",
@@ -410,7 +410,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://dallastheatercenter.org",
-   "note": "Closes before today (2026-11-02). Season 2026-2027."
+   "note": "Season 2026-2027"
   },
   {
    "company": "Dallas Theater Center",
@@ -420,7 +420,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://dallastheatercenter.org",
-   "note": "Season 2026-2027."
+   "note": "Season 2026-2027"
   },
   {
    "company": "Dallas Theater Center",
@@ -430,7 +430,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://dallastheatercenter.org",
-   "note": "Season 2026-2027."
+   "note": "Season 2026-2027"
   },
   {
    "company": "Dallas Theater Center",
@@ -440,7 +440,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://dallastheatercenter.org",
-   "note": "Season 2026-2027."
+   "note": "Season 2026-2027"
   },
   {
    "company": "Dallas Theater Center",
@@ -450,7 +450,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://dallastheatercenter.org",
-   "note": "Season 2026-2027."
+   "note": "Season 2026-2027"
   },
   {
    "company": "Echo Theatre",
@@ -460,7 +460,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://echotheatre.org",
-   "note": "With Teatro Dallas."
+   "note": "With Teatro Dallas"
   },
   {
    "company": "Echo Theatre",
@@ -470,7 +470,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://echotheatre.org",
-   "note": "Workshop. Full production in March 2027, no dates given."
+   "note": "Workshop; full production in March"
   },
   {
    "company": "Echo Theatre",
@@ -504,7 +504,7 @@
   },
   {
    "company": "The Firehouse Theatre",
-   "title": "Disney's Frozen!",
+   "title": "Disney\u2019s Frozen!",
    "start_date": "2026-12-03",
    "end_date": "2026-12-20",
    "venue": "",
@@ -600,17 +600,17 @@
    "venue": "",
    "premiere": "",
    "website": "",
-   "note": "No website given in the line (only a Facebook listing)."
+   "note": "Line gives no company website (only a Facebook listing), so website is left empty."
   },
   {
    "company": "Hip Pocket Theatre",
    "title": "The 4th Annual Twilight Soiree",
-   "start_date": "2026-10-21",
+   "start_date": "2026-10-29",
    "end_date": "2026-10-31",
    "venue": "",
    "premiere": "",
    "website": "https://hippocket.org",
-   "note": "Open studio (creating) Oct 21-28; performances Oct 29-31 at dusk."
+   "note": "Performance dates at dusk. A community open studio (creating) runs Oct. 21-28 and is not included as a show run."
   },
   {
    "company": "Jubilee Theatre",
@@ -620,7 +620,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://jubileetheatre.org",
-   "note": ""
+   "note": "Season 45"
   },
   {
    "company": "Jubilee Theatre",
@@ -630,7 +630,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://jubileetheatre.org",
-   "note": ""
+   "note": "Season 45"
   },
   {
    "company": "Kitchen Dog Theater",
@@ -640,7 +640,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Season 36. Company's new home per the line."
+   "note": "Venue from the line's 'In their new home' statement; applied to all shows listed."
   },
   {
    "company": "Kitchen Dog Theater",
@@ -650,7 +650,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": ""
+   "note": "Venue from the line's 'In their new home' statement; applied to all shows listed."
   },
   {
    "company": "Kitchen Dog Theater",
@@ -660,7 +660,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": ""
+   "note": "One of two nights (June 13 & June 27). Venue from the line's 'In their new home' statement."
   },
   {
    "company": "Kitchen Dog Theater",
@@ -670,7 +670,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": ""
+   "note": "One of two nights (June 13 & June 27). Venue from the line's 'In their new home' statement."
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -680,7 +680,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": ""
+   "note": "2027 season"
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -690,7 +690,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": ""
+   "note": "2027 season"
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -700,7 +700,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": ""
+   "note": "2027 season"
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -710,7 +710,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": ""
+   "note": "2027 season"
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -720,7 +720,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": ""
+   "note": "2027 season"
   },
   {
    "company": "Lewisville Playhouse",
@@ -770,7 +770,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": "Listed as 'R&H's Cinderella'; the R&H credit was dropped from the title."
+   "note": "Part of 'STAGE to SCREEN' classics season"
   },
   {
    "company": "Mainstage Irving-Las Colinas",
@@ -780,7 +780,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": ""
+   "note": "Part of 'STAGE to SCREEN' classics season"
   },
   {
    "company": "Mainstage Irving-Las Colinas",
@@ -790,7 +790,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": ""
+   "note": "Part of 'STAGE to SCREEN' classics season"
   },
   {
    "company": "Mainstage Irving-Las Colinas",
@@ -800,7 +800,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": ""
+   "note": "Part of 'STAGE to SCREEN' classics season"
   },
   {
    "company": "Mainstage Irving-Las Colinas",
@@ -810,7 +810,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": ""
+   "note": "Part of 'STAGE to SCREEN' classics season"
   },
   {
    "company": "NTPA Repertory Theatre",
@@ -820,7 +820,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://ntparep.org",
-   "note": ""
+   "note": "Already running as of 2026-11-02."
   },
   {
    "company": "Onstage in Bedford",
@@ -834,13 +834,13 @@
   },
   {
    "company": "Plaza Theatre (Cleburne)",
-   "title": "Singin' in the Rain",
+   "title": "Singin\u2019 in the Rain",
    "start_date": "2026-10-16",
    "end_date": "2026-11-14",
    "venue": "",
    "premiere": "",
    "website": "https://plazatheatre.com",
-   "note": ""
+   "note": "Already running as of 2026-11-02."
   },
   {
    "company": "Plaza Theatre (Cleburne)",
@@ -860,7 +860,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://pocketsandwich.com",
-   "note": ""
+   "note": "Already running as of 2026-11-02. Listing also mentions improv, music, adult comedy nights and TBA shows, which have no dates and were skipped."
   },
   {
    "company": "Pocket Sandwich Theatre",
@@ -880,7 +880,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://richardsontheatrecentre",
-   "note": "Source line gives no top-level domain for the website; entered as written. Run ended 2026-11-01, before today."
+   "note": "Run ended 2026-11-01, before today. Included because the listing gives concrete dates. The listing gives no domain extension for the website, so the URL is incomplete and should be checked."
   },
   {
    "company": "Rover Dramawerks (Plano)",
@@ -897,20 +897,20 @@
    "title": "Richard II",
    "start_date": "2027-01-22",
    "end_date": "2027-01-31",
-   "venue": "Theatre Three arena stage space",
+   "venue": "Theatre Three (arena stage space)",
    "premiere": "",
    "website": "https://shakespearedallas.org",
-   "note": "Shakespeare in the Round, held indoors for winter."
+   "note": "Winter 'Shakespeare in the Round' production, indoors."
   },
   {
-   "company": "Shakespeare LIVE!\u2026 Arlington",
+   "company": "Shakespeare LIVE!",
    "title": "Macbeth",
    "start_date": "2026-10-29",
    "end_date": "2026-10-31",
    "venue": "Levitt Pavilion",
    "premiere": "",
    "website": "https://shakespearelive.org",
-   "note": "Free outdoor show; line describes it as the October show (Halloween)."
+   "note": "Free, outdoors, Arlington; Halloween-weekend run"
   },
   {
    "company": "Soul Rep Theatre",
@@ -920,7 +920,7 @@
    "venue": "Bryant Hall",
    "premiere": "",
    "website": "https://soulrep.org",
-   "note": "2026-2027 season."
+   "note": "From Zora Neale Hurston's stories"
   },
   {
    "company": "Soul Rep Theatre",
@@ -930,7 +930,7 @@
    "venue": "South Dallas Cultural Center",
    "premiere": "",
    "website": "https://soulrep.org",
-   "note": "2026-2027 season."
+   "note": ""
   },
   {
    "company": "Soul Rep Theatre",
@@ -940,7 +940,7 @@
    "venue": "Bryant Hall",
    "premiere": "",
    "website": "https://soulrep.org",
-   "note": "2026-2027 season."
+   "note": ""
   },
   {
    "company": "Stage West",
@@ -950,7 +950,7 @@
    "venue": "",
    "premiere": "regional",
    "website": "https://stagewest.org",
-   "note": "Season 48, 2026-2027."
+   "note": "Season 48"
   },
   {
    "company": "Stage West",
@@ -960,7 +960,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://stagewest.org",
-   "note": "Season extra, back by audience demand. Season 48, 2026-2027."
+   "note": "Season extra, back by audience demand"
   },
   {
    "company": "Stage West",
@@ -970,7 +970,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://stagewest.org",
-   "note": "Season 48, 2026-2027."
+   "note": "Season 48"
   },
   {
    "company": "Stage West",
@@ -980,7 +980,7 @@
    "venue": "",
    "premiere": "world",
    "website": "https://stagewest.org",
-   "note": "Season 48, 2026-2027."
+   "note": "Season 48"
   },
   {
    "company": "Stage West",
@@ -990,7 +990,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://stagewest.org",
-   "note": "Season 48, 2026-2027."
+   "note": "Season 48"
   },
   {
    "company": "Stage West",
@@ -1000,7 +1000,7 @@
    "venue": "",
    "premiere": "regional",
    "website": "https://stagewest.org",
-   "note": "Season 48, 2026-2027."
+   "note": "Season 48"
   },
   {
    "company": "Stage West",
@@ -1010,7 +1010,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://stagewest.org",
-   "note": "Season 48, 2026-2027."
+   "note": "Season 48"
   },
   {
    "company": "Stolen Shakespeare Guild",
@@ -1020,7 +1020,7 @@
    "venue": "3623 Decatur Avenue, Fort Worth",
    "premiere": "",
    "website": "https://www.stolenshakespeareguild.org",
-   "note": "Address is bracketed in the line; applied here as the venue for all of the company's listed shows."
+   "note": "Venue taken from the company's bracketed address in the listing"
   },
   {
    "company": "Stolen Shakespeare Guild",
@@ -1030,7 +1030,7 @@
    "venue": "3623 Decatur Avenue, Fort Worth",
    "premiere": "",
    "website": "https://www.stolenshakespeareguild.org",
-   "note": "In rotating repertory with As You Like It."
+   "note": "Rotating repertory; venue taken from the company's bracketed address"
   },
   {
    "company": "Stolen Shakespeare Guild",
@@ -1040,7 +1040,7 @@
    "venue": "3623 Decatur Avenue, Fort Worth",
    "premiere": "",
    "website": "https://www.stolenshakespeareguild.org",
-   "note": "Address is bracketed in the line; applied here as the venue for all of the company's listed shows."
+   "note": "Venue taken from the company's bracketed address"
   },
   {
    "company": "Theatre Arlington",
@@ -1093,14 +1093,14 @@
    "note": ""
   },
   {
-   "company": "Theatre Off the Square (Weatherford)",
+   "company": "Theatre Off the Square",
    "title": "Dracula: A Comedy of Terrors",
    "start_date": "2026-10-16",
    "end_date": "2026-11-07",
    "venue": "",
    "premiere": "",
    "website": "https://www.theatreoffthesquare.org",
-   "note": ""
+   "note": "Weatherford, TX"
   },
   {
    "company": "Theatre Three",
@@ -1110,7 +1110,7 @@
    "venue": "Main stage",
    "premiere": "",
    "website": "https://theatre3dallas.com",
-   "note": "2026-2027 season."
+   "note": "2026-2027 season"
   },
   {
    "company": "Theatre Three",
@@ -1120,7 +1120,7 @@
    "venue": "Main stage",
    "premiere": "",
    "website": "https://theatre3dallas.com",
-   "note": "2026-2027 season."
+   "note": "2026-2027 season"
   },
   {
    "company": "Theatre Three",
@@ -1130,7 +1130,7 @@
    "venue": "Main stage",
    "premiere": "",
    "website": "https://theatre3dallas.com",
-   "note": "2026-2027 season."
+   "note": "2026-2027 season"
   },
   {
    "company": "Theatre Three",
@@ -1140,7 +1140,7 @@
    "venue": "Downstairs @ Theatre Too",
    "premiere": "",
    "website": "https://theatre3dallas.com",
-   "note": "2026-2027 season."
+   "note": "2026-2027 season"
   },
   {
    "company": "Theatre Three",
@@ -1150,7 +1150,7 @@
    "venue": "Downstairs @ Theatre Too",
    "premiere": "",
    "website": "https://theatre3dallas.com",
-   "note": "2026-2027 season."
+   "note": "2026-2027 season"
   },
   {
    "company": "Theatre Three",
@@ -1160,7 +1160,7 @@
    "venue": "Downstairs @ Theatre Too",
    "premiere": "",
    "website": "https://theatre3dallas.com",
-   "note": "2026-2027 season."
+   "note": "2026-2027 season"
   },
   {
    "company": "Undermain Theatre",
@@ -1170,7 +1170,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://www.undermain.org",
-   "note": "Season 43, 2026-'27."
+   "note": "Season 43"
   },
   {
    "company": "Undermain Theatre",
@@ -1180,7 +1180,7 @@
    "venue": "",
    "premiere": "regional",
    "website": "https://www.undermain.org",
-   "note": "Season 43, 2026-'27."
+   "note": "Season 43"
   },
   {
    "company": "Undermain Theatre",
@@ -1190,7 +1190,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://www.undermain.org",
-   "note": "Season 43, 2026-'27."
+   "note": "Season 43"
   },
   {
    "company": "Upright Theatre Company",
@@ -1200,7 +1200,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://uprighttheatre.org",
-   "note": "Adult and youth productions."
+   "note": ""
   },
   {
    "company": "Uptown Players",
@@ -1240,7 +1240,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://www.watertowertheatre.org",
-   "note": "The URL in the line is cut off after '/Fa'; the base domain is used here."
+   "note": "Listing's URL was cut off; used the site root"
   },
   {
    "company": "WaterTower Theatre",
@@ -1250,7 +1250,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://www.watertowertheatre.org",
-   "note": "The URL in the line is cut off after '/Fa'; the base domain is used here."
+   "note": "Listing's URL was cut off; used the site root"
   },
   {
    "company": "WaterTower Theatre",
@@ -1260,7 +1260,17 @@
    "venue": "",
    "premiere": "",
    "website": "https://www.watertowertheatre.org",
-   "note": "The URL in the line is cut off after '/Fa'; the base domain is used here."
+   "note": "Listing's URL was cut off; used the site root"
+  },
+  {
+   "company": "Shakespeare LIVE!\u2026 Arlington",
+   "title": "Macbeth",
+   "start_date": "2026-10-29",
+   "end_date": "2026-10-31",
+   "venue": "Levitt Pavilion",
+   "premiere": "",
+   "website": "https://shakespearelive.org",
+   "note": "Free outdoor show; line describes it as the October show (Halloween)."
   },
   {
    "company": "Hip Pocket Theatre",
