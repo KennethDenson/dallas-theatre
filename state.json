@@ -1,6 +1,6 @@
 {
- "stamp": "d00e405364ad8397bb948369217b47582aa45314",
- "updated": "2026-11-14T12:15:43.473482-06:00",
+ "stamp": "33f6ef0cc10a326c8dec04e834ef9447e714b7c3",
+ "updated": "2026-11-14T16:35:23.833178-06:00",
  "shows": [
   {
    "company": "Allen Contemporary Theatre",
@@ -187,7 +187,7 @@
    "title": "Buena Vista Social Club",
    "start_date": "2026-11-03",
    "end_date": "2026-11-15",
-   "venue": "Music Hall at Fair Park",
+   "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
    "note": ""
@@ -197,7 +197,7 @@
    "title": "The Phantom of the Opera",
    "start_date": "2026-12-16",
    "end_date": "2027-01-03",
-   "venue": "Music Hall at Fair Park",
+   "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
    "note": ""
@@ -217,7 +217,7 @@
    "title": "Hell's Kitchen",
    "start_date": "2027-02-03",
    "end_date": "2027-02-14",
-   "venue": "Music Hall at Fair Park",
+   "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
    "note": ""
@@ -227,7 +227,7 @@
    "title": "Water for Elephants",
    "start_date": "2027-04-13",
    "end_date": "2027-04-25",
-   "venue": "Music Hall at Fair Park",
+   "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
    "note": ""
@@ -237,7 +237,7 @@
    "title": "Death Becomes Her",
    "start_date": "2027-05-11",
    "end_date": "2027-05-23",
-   "venue": "Music Hall at Fair Park",
+   "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
    "note": ""
@@ -247,7 +247,7 @@
    "title": "Harry Potter and the Cursed Child",
    "start_date": "2027-06-15",
    "end_date": "2027-06-27",
-   "venue": "Music Hall at Fair Park",
+   "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
    "note": ""
@@ -257,10 +257,10 @@
    "title": "Dr. Seuss' How the Grinch Stole Christmas! The Musical",
    "start_date": "2026-11-25",
    "end_date": "2026-11-29",
-   "venue": "Music Hall at Fair Park",
+   "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
-   "note": "Holiday special listed at end of line"
+   "note": ""
   },
   {
    "company": "Broadway Dallas",
@@ -287,10 +287,10 @@
    "title": "The Book of Mormon",
    "start_date": "2027-06-01",
    "end_date": "2027-06-06",
-   "venue": "Music Hall at Fair Park",
+   "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
-   "note": "Add-on show; venue inferred from the line's default (Music Hall at Fair Park)"
+   "note": "Add-on show"
   },
   {
    "company": "Casa Manana",
@@ -320,7 +320,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://circletheatre.com",
-   "note": "Season 45"
+   "note": ""
   },
   {
    "company": "The Core Theatre (Richardson)",
@@ -350,7 +350,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://dallastheatercenter.org",
-   "note": "2026-2027 season"
+   "note": ""
   },
   {
    "company": "Dallas Theater Center",
@@ -360,7 +360,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://dallastheatercenter.org",
-   "note": "2026-2027 season"
+   "note": ""
   },
   {
    "company": "Dallas Theater Center",
@@ -370,7 +370,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://dallastheatercenter.org",
-   "note": "2026-2027 season"
+   "note": ""
   },
   {
    "company": "Dallas Theater Center",
@@ -380,7 +380,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://dallastheatercenter.org",
-   "note": "2026-2027 season"
+   "note": ""
   },
   {
    "company": "Echo Theatre",
@@ -390,7 +390,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://echotheatre.org",
-   "note": "With Teatro Dallas"
+   "note": "Presented with Teatro Dallas"
   },
   {
    "company": "Echo Theatre",
@@ -400,7 +400,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://echotheatre.org",
-   "note": "Workshop; full production listed for March (no date given)"
+   "note": "Workshop; full production in March (no dates listed)"
   },
   {
    "company": "Echo Theatre",
@@ -490,7 +490,7 @@
    "venue": "",
    "premiere": "",
    "website": "",
-   "note": "Company listing gives no website; only a Facebook reference."
+   "note": "No company website given in the line (only a Facebook listing)"
   },
   {
    "company": "Jubilee Theatre",
@@ -510,7 +510,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Venue is the company's new home, as stated in the line; Season 36"
+   "note": "Venue taken from the company-wide 'new home' statement in the line"
   },
   {
    "company": "Kitchen Dog Theater",
@@ -520,7 +520,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Venue is the company's new home, as stated in the line"
+   "note": "Add-on event; venue taken from company-wide statement"
   },
   {
    "company": "Kitchen Dog Theater",
@@ -530,7 +530,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Venue is the company's new home, as stated in the line"
+   "note": "Festival night; venue taken from company-wide statement"
   },
   {
    "company": "Kitchen Dog Theater",
@@ -540,7 +540,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Venue is the company's new home, as stated in the line"
+   "note": "Festival night; venue taken from company-wide statement"
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -640,7 +640,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": "Part of the 'STAGE to SCREEN' classics season; currently running"
+   "note": "Listed as 'R&H's Cinderella'; R&H credit dropped from title"
   },
   {
    "company": "Mainstage Irving-Las Colinas",
@@ -650,7 +650,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": "Part of the 'STAGE to SCREEN' classics season"
+   "note": ""
   },
   {
    "company": "Mainstage Irving-Las Colinas",
@@ -660,7 +660,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": "Part of the 'STAGE to SCREEN' classics season"
+   "note": ""
   },
   {
    "company": "Mainstage Irving-Las Colinas",
@@ -670,7 +670,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": "Part of the 'STAGE to SCREEN' classics season"
+   "note": ""
   },
   {
    "company": "Mainstage Irving-Las Colinas",
@@ -680,7 +680,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": "Part of the 'STAGE to SCREEN' classics season"
+   "note": ""
   },
   {
    "company": "Onstage in Bedford",
@@ -694,7 +694,7 @@
   },
   {
    "company": "Plaza Theatre (Cleburne)",
-   "title": "Singin' in the Rain",
+   "title": "Singin\u2019 in the Rain",
    "start_date": "2026-10-16",
    "end_date": "2026-11-14",
    "venue": "",
@@ -820,7 +820,7 @@
    "venue": "Theatre Three (arena stage)",
    "premiere": "",
    "website": "https://shakespearedallas.org",
-   "note": "Shakespeare in the Round"
+   "note": "Part of the Shakespeare in the Round series"
   },
   {
    "company": "Soul Rep Theatre",
@@ -850,7 +850,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://stagewest.org",
-   "note": "Season 48 season extra, back by audience demand"
+   "note": "Season extra, back by audience demand"
   },
   {
    "company": "Stage West",
@@ -960,7 +960,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://theatre3dallas.com",
-   "note": "Main stage"
+   "note": "Parody by Matt Lyle; main stage"
   },
   {
    "company": "Theatre Three",
