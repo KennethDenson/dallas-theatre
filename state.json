@@ -1,6 +1,6 @@
 {
- "stamp": "e5b0d012f7be0a4dcfc94c17dc1111f2791cd554",
- "updated": "2026-11-22T01:03:07.540383-06:00",
+ "stamp": "f4f86d2620728dd40d38e932b81de52bd9d03f01",
+ "updated": "2026-11-22T13:49:51.844522-06:00",
  "shows": [
   {
    "company": "Allen Contemporary Theatre",
@@ -14,33 +14,13 @@
   },
   {
    "company": "Art Centre Theatre (Plano)",
-   "title": "Don Juan Tenorio",
-   "start_date": "2026-11-13",
-   "end_date": "2026-11-22",
-   "venue": "",
-   "premiere": "",
-   "website": "https://artcentretheatre.com",
-   "note": ""
-  },
-  {
-   "company": "Art Centre Theatre (Plano)",
    "title": "A Tuna Christmas",
    "start_date": "2026-12-05",
    "end_date": "2026-12-20",
    "venue": "",
    "premiere": "",
    "website": "https://artcentretheatre.com",
-   "note": ""
-  },
-  {
-   "company": "ATTPAC",
-   "title": "Mystic Pizza: A New Musical",
-   "start_date": "2026-11-20",
-   "end_date": "2026-11-22",
-   "venue": "",
-   "premiere": "",
-   "website": "https://attpac.org",
-   "note": "Broadway at the Center 2026-2027 season"
+   "note": "Spamalot listed as TBA January 2027, so it is skipped"
   },
   {
    "company": "ATTPAC",
@@ -54,7 +34,7 @@
   },
   {
    "company": "ATTPAC",
-   "title": "The Who\u2019s Tommy",
+   "title": "The Who's Tommy",
    "start_date": "2027-06-03",
    "end_date": "2027-06-05",
    "venue": "",
@@ -100,7 +80,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Broadway at the Bass add-on show"
+   "note": "Add-on show, Broadway at the Bass series"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
@@ -110,7 +90,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Broadway at the Bass add-on show"
+   "note": "Add-on show, Broadway at the Bass series"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
@@ -120,7 +100,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Broadway at the Bass 2026-2027 season"
+   "note": "Season 2026-2027"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
@@ -130,17 +110,17 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Broadway at the Bass 2026-2027 season"
+   "note": "Season 2026-2027"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
-   "title": "Disney\u2019s Beauty and the Beast",
+   "title": "Disney's Beauty and the Beast",
    "start_date": "2027-05-25",
    "end_date": "2027-05-30",
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Broadway at the Bass 2026-2027 season"
+   "note": "Season 2026-2027"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
@@ -150,7 +130,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Broadway at the Bass 2026-2027 season"
+   "note": "Season 2026-2027"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
@@ -160,7 +140,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Broadway at the Bass 2026-2027 season"
+   "note": "Season 2026-2027"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
@@ -170,7 +150,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Broadway at the Bass 2026-2027 season"
+   "note": "Season 2026-2027; year inferred as 2027 from list order"
   },
   {
    "company": "Bishop Arts Theatre Center",
@@ -180,7 +160,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://bishopartstheatre.org",
-   "note": "Written/adapted/directed by Rickey Wax"
+   "note": ""
   },
   {
    "company": "Broadway Dallas",
@@ -204,7 +184,7 @@
   },
   {
    "company": "Broadway Dallas",
-   "title": "Hell\u2019s Kitchen",
+   "title": "Hell's Kitchen",
    "start_date": "2027-02-03",
    "end_date": "2027-02-14",
    "venue": "Music Hall in Fair Park",
@@ -244,13 +224,13 @@
   },
   {
    "company": "Broadway Dallas",
-   "title": "Dr. Seuss\u2019 How the Grinch Stole Christmas! The Musical",
+   "title": "Dr. Seuss' How the Grinch Stole Christmas! The Musical",
    "start_date": "2026-11-25",
    "end_date": "2026-11-29",
    "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
-   "note": "Holiday special listed at end of season"
+   "note": "Holiday special listed at end of line; year inferred as 2026 since it falls near today"
   },
   {
    "company": "Broadway Dallas",
@@ -284,17 +264,7 @@
   },
   {
    "company": "Casa Manana",
-   "title": "Disney\u2019s Frozen\u2014The Musical",
-   "start_date": "2026-11-07",
-   "end_date": "2026-11-15",
-   "venue": "",
-   "premiere": "",
-   "website": "https://casamanana.org",
-   "note": ""
-  },
-  {
-   "company": "Casa Manana",
-   "title": "A Christmas Carol\u2014The Musical",
+   "title": "Disney's A Christmas Carol\u2014The Musical",
    "start_date": "2026-11-27",
    "end_date": "2026-12-23",
    "venue": "",
@@ -323,7 +293,7 @@
    "note": ""
   },
   {
-   "company": "Dallas Children\u2019s Theater",
+   "company": "Dallas Children's Theater",
    "title": "Rudolph the Red-Nosed Reindeer",
    "start_date": "2026-11-21",
    "end_date": "2026-12-20",
@@ -374,23 +344,13 @@
   },
   {
    "company": "Echo Theatre",
-   "title": "Eva Luna",
-   "start_date": "2026-11-06",
-   "end_date": "2026-11-22",
-   "venue": "",
-   "premiere": "",
-   "website": "https://echotheatre.org",
-   "note": "With Teatro Dallas"
-  },
-  {
-   "company": "Echo Theatre",
    "title": "The Stories of Eva Luna",
    "start_date": "2026-12-01",
    "end_date": "2026-12-02",
    "venue": "",
    "premiere": "",
    "website": "https://echotheatre.org",
-   "note": "Workshop; full production in March"
+   "note": "Workshop for Eva Luna; the full production in March has no concrete date so it is skipped"
   },
   {
    "company": "Echo Theatre",
@@ -480,7 +440,7 @@
    "venue": "",
    "premiere": "",
    "website": "",
-   "note": "Currently running (ends today). The line gives no company website, only a Facebook listing, so website is empty."
+   "note": "Company listed only a Facebook page; no website given."
   },
   {
    "company": "Jubilee Theatre",
@@ -490,7 +450,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://jubileetheatre.org",
-   "note": "Season 45"
+   "note": "Part of Season 45."
   },
   {
    "company": "Kitchen Dog Theater",
@@ -500,7 +460,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Venue is the company's new home as stated in the line; Bill Cain credit dropped; Season 36"
+   "note": "Season 36. Company's new home per the listing."
   },
   {
    "company": "Kitchen Dog Theater",
@@ -510,7 +470,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Single night; Venue is the company's new home as stated in the line"
+   "note": "Festival add-on."
   },
   {
    "company": "Kitchen Dog Theater",
@@ -520,7 +480,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Single night (June 13 & June 27 listed); Venue is the company's new home as stated in the line"
+   "note": "Single night; listed with June 27."
   },
   {
    "company": "Kitchen Dog Theater",
@@ -530,7 +490,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Single night (June 13 & June 27 listed); Venue is the company's new home as stated in the line"
+   "note": "Single night; listed with June 13."
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -540,7 +500,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": "2027 season"
+   "note": "2027 season."
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -550,7 +510,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": "2027 season"
+   "note": "2027 season."
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -560,7 +520,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": "2027 season"
+   "note": "2027 season."
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -570,7 +530,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": "2027 season"
+   "note": "2027 season."
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -580,7 +540,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": "2027 season"
+   "note": "2027 season."
   },
   {
    "company": "Lewisville Playhouse",
@@ -624,23 +584,13 @@
   },
   {
    "company": "Mainstage Irving-Las Colinas",
-   "title": "Cinderella",
-   "start_date": "2026-11-06",
-   "end_date": "2026-11-22",
-   "venue": "",
-   "premiere": "",
-   "website": "https://mainstageirving.com",
-   "note": "Currently running (ends today). Listed as \u201cR&H\u2019s Cinderella\u201d; the Rodgers & Hammerstein credit was dropped from the title"
-  },
-  {
-   "company": "Mainstage Irving-Las Colinas",
    "title": "Blithe Spirit",
    "start_date": "2027-01-15",
    "end_date": "2027-01-21",
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": ""
+   "note": "'STAGE to SCREEN' season."
   },
   {
    "company": "Mainstage Irving-Las Colinas",
@@ -650,7 +600,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": ""
+   "note": "'STAGE to SCREEN' season."
   },
   {
    "company": "Mainstage Irving-Las Colinas",
@@ -660,7 +610,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": ""
+   "note": "'STAGE to SCREEN' season."
   },
   {
    "company": "Mainstage Irving-Las Colinas",
@@ -670,7 +620,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": ""
+   "note": "'STAGE to SCREEN' season."
   },
   {
    "company": "NTPA Repertory Theatre",
@@ -694,33 +644,13 @@
   },
   {
    "company": "Plaza Theatre (Cleburne)",
-   "title": "Singin' in the Rain",
-   "start_date": "2026-10-16",
-   "end_date": "2026-11-14",
-   "venue": "",
-   "premiere": "",
-   "website": "https://plazatheatre.com",
-   "note": "Run ended before today (2026-11-22)."
-  },
-  {
-   "company": "Plaza Theatre (Cleburne)",
    "title": "A Christmas Carol",
    "start_date": "2026-11-20",
    "end_date": "2026-12-23",
    "venue": "",
    "premiere": "",
    "website": "https://plazatheatre.com",
-   "note": ""
-  },
-  {
-   "company": "Pocket Sandwich Theatre",
-   "title": "The Werewolf of London",
-   "start_date": "2026-10-02",
-   "end_date": "2026-11-14",
-   "venue": "",
-   "premiere": "",
-   "website": "https://pocketsandwich.com",
-   "note": "Run ended before today (2026-11-22)."
+   "note": "Run already in progress as of 2026-11-22"
   },
   {
    "company": "Pocket Sandwich Theatre",
@@ -730,17 +660,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://pocketsandwich.com",
-   "note": ""
-  },
-  {
-   "company": "Rover Dramawerks (Plano)",
-   "title": "Making God Laugh",
-   "start_date": "2026-11-05",
-   "end_date": "2026-11-22",
-   "venue": "",
-   "premiere": "",
-   "website": "https://roverdramawerks.com",
-   "note": "Closes today."
+   "note": "Other offerings (improv, music, adult comedy nights) have no dates and were skipped"
   },
   {
    "company": "Rover Dramawerks (Plano)",
@@ -750,7 +670,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://roverdramawerks.com",
-   "note": "2027 season."
+   "note": "2027 season"
   },
   {
    "company": "Rover Dramawerks (Plano)",
@@ -760,7 +680,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://roverdramawerks.com",
-   "note": "2027 season."
+   "note": "2027 season"
   },
   {
    "company": "Rover Dramawerks (Plano)",
@@ -770,7 +690,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://roverdramawerks.com",
-   "note": "2027 season; single night."
+   "note": "2027 season"
   },
   {
    "company": "Rover Dramawerks (Plano)",
@@ -780,7 +700,7 @@
    "venue": "",
    "premiere": "world",
    "website": "https://roverdramawerks.com",
-   "note": "2027 season."
+   "note": "2027 season"
   },
   {
    "company": "Rover Dramawerks (Plano)",
@@ -790,7 +710,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://roverdramawerks.com",
-   "note": "2027 season."
+   "note": "2027 season"
   },
   {
    "company": "Rover Dramawerks (Plano)",
@@ -800,7 +720,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://roverdramawerks.com",
-   "note": "2027 season."
+   "note": "2027 season"
   },
   {
    "company": "Second Thought Theatre",
@@ -810,17 +730,17 @@
    "venue": "",
    "premiere": "",
    "website": "https://secondthoughttheatre.com",
-   "note": "Co-production with W. Stage West."
+   "note": "Co-produced with W. Stage West"
   },
   {
    "company": "Shakespeare Dallas",
    "title": "Richard II",
    "start_date": "2027-01-22",
    "end_date": "2027-01-31",
-   "venue": "Theatre Three's arena stage",
+   "venue": "Theatre Three",
    "premiere": "",
    "website": "https://shakespearedallas.org",
-   "note": "Part of the \"Shakespeare in the Round\" series."
+   "note": "Shakespeare in the Round, arena stage"
   },
   {
    "company": "Soul Rep Theatre",
@@ -830,7 +750,7 @@
    "venue": "South Dallas Cultural Center",
    "premiere": "",
    "website": "https://soulrep.org",
-   "note": ""
+   "note": "Author Keli Goff; director credit dropped"
   },
   {
    "company": "Soul Rep Theatre",
@@ -840,7 +760,7 @@
    "venue": "Bryant Hall",
    "premiere": "",
    "website": "https://soulrep.org",
-   "note": ""
+   "note": "Author Zora Howard; director credit dropped"
   },
   {
    "company": "Stage West",
@@ -860,7 +780,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://stagewest.org",
-   "note": "Co-production with Second Thought"
+   "note": "Co-production with Second Thought; Season 48"
   },
   {
    "company": "Stage West",
@@ -870,7 +790,7 @@
    "venue": "",
    "premiere": "world",
    "website": "https://stagewest.org",
-   "note": ""
+   "note": "Season 48"
   },
   {
    "company": "Stage West",
@@ -880,7 +800,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://stagewest.org",
-   "note": ""
+   "note": "Season 48"
   },
   {
    "company": "Stage West",
@@ -890,7 +810,7 @@
    "venue": "",
    "premiere": "regional",
    "website": "https://stagewest.org",
-   "note": ""
+   "note": "Season 48"
   },
   {
    "company": "Stage West",
@@ -900,7 +820,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://stagewest.org",
-   "note": ""
+   "note": "Season 48"
   },
   {
    "company": "Stolen Shakespeare Guild",
@@ -920,7 +840,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://theatrearlington.org",
-   "note": ""
+   "note": "Author Steven D. Morris; credit dropped"
   },
   {
    "company": "Theatre Denton",
@@ -940,7 +860,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://theatrefrisco.com",
-   "note": "Run ended before today (2026-11-22)"
+   "note": "Run ended before today (2026-11-22); dated 2026 because it falls after the 2026-09-23 listing window start"
   },
   {
    "company": "Theatre Three",
@@ -950,7 +870,7 @@
    "venue": "Main stage",
    "premiere": "",
    "website": "https://theatre3dallas.com",
-   "note": ""
+   "note": "Parody by Matt Lyle; credit dropped"
   },
   {
    "company": "Theatre Three",
@@ -960,7 +880,7 @@
    "venue": "Main stage",
    "premiere": "",
    "website": "https://theatre3dallas.com",
-   "note": ""
+   "note": "Season 2026-2027"
   },
   {
    "company": "Theatre Three",
@@ -970,27 +890,27 @@
    "venue": "Main stage",
    "premiere": "",
    "website": "https://theatre3dallas.com",
-   "note": ""
+   "note": "Season 2026-2027"
   },
   {
    "company": "Theatre Three",
    "title": "Dear Jack, Dear Louise",
    "start_date": "2027-02-04",
    "end_date": "2027-02-21",
-   "venue": "Theatre Too (downstairs)",
+   "venue": "Downstairs @ Theatre Too",
    "premiere": "",
    "website": "https://theatre3dallas.com",
-   "note": ""
+   "note": "Season 2026-2027"
   },
   {
    "company": "Theatre Three",
    "title": "Miss Margarida's Way",
    "start_date": "2027-04-29",
    "end_date": "2027-05-16",
-   "venue": "Theatre Too (downstairs)",
+   "venue": "Downstairs @ Theatre Too",
    "premiere": "",
    "website": "https://theatre3dallas.com",
-   "note": ""
+   "note": "Season 2026-2027"
   },
   {
    "company": "Undermain Theatre",
@@ -1000,7 +920,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://www.undermain.org",
-   "note": "Season 43; final day is today"
+   "note": "Season 43; Erin Malone Turner credit dropped; closes today"
   },
   {
    "company": "Undermain Theatre",
@@ -1014,13 +934,13 @@
   },
   {
    "company": "Undermain Theatre",
-   "title": "The Two-Character Play (Out Cry)",
+   "title": "The Two-Character Play",
    "start_date": "2027-05-22",
    "end_date": "2027-06-06",
    "venue": "",
    "premiere": "",
    "website": "https://www.undermain.org",
-   "note": "Season 43; by Tennessee Williams"
+   "note": "Season 43; listed as (Out Cry) in the source; Tennessee Williams credit dropped"
   },
   {
    "company": "Upright Theatre Company",
@@ -1030,7 +950,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://uprighttheatre.org",
-   "note": ""
+   "note": "Youth production"
   },
   {
    "company": "Uptown Players",
@@ -1081,6 +1001,36 @@
    "premiere": "",
    "website": "https://www.watertowertheatre.org/",
    "note": ""
+  },
+  {
+   "company": "Casa Manana",
+   "title": "Disney\u2019s Frozen\u2014The Musical",
+   "start_date": "2026-11-07",
+   "end_date": "2026-11-15",
+   "venue": "",
+   "premiere": "",
+   "website": "https://casamanana.org",
+   "note": ""
+  },
+  {
+   "company": "Plaza Theatre (Cleburne)",
+   "title": "Singin' in the Rain",
+   "start_date": "2026-10-16",
+   "end_date": "2026-11-14",
+   "venue": "",
+   "premiere": "",
+   "website": "https://plazatheatre.com",
+   "note": "Run ended before today (2026-11-22)."
+  },
+  {
+   "company": "Pocket Sandwich Theatre",
+   "title": "The Werewolf of London",
+   "start_date": "2026-10-02",
+   "end_date": "2026-11-14",
+   "venue": "",
+   "premiere": "",
+   "website": "https://pocketsandwich.com",
+   "note": "Run ended before today (2026-11-22)."
   },
   {
    "company": "Broadway Dallas",
