@@ -1,6 +1,6 @@
 {
- "stamp": "b070c1920a78d2181c06cdb64b7442ec03d0dda7",
- "updated": "2026-11-24T04:03:44.166788-06:00",
+ "stamp": "e4b2175f6ce0905603f25bf1a52bee91579d1d79",
+ "updated": "2026-11-24T16:34:57.879643-06:00",
  "shows": [
   {
    "company": "Allen Contemporary Theatre",
@@ -20,7 +20,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://artcentretheatre.com",
-   "note": "Spamalot listed as TBA January 2027, so skipped"
+   "note": ""
   },
   {
    "company": "ATTPAC",
@@ -80,7 +80,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Add-on show, Broadway at the Bass series, 2026-2027 season"
+   "note": "Add-on show, Broadway at the Bass series"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
@@ -90,7 +90,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Add-on show, Broadway at the Bass series, 2026-2027 season"
+   "note": "Add-on show, Broadway at the Bass series"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
@@ -150,7 +150,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Broadway at the Bass series, 2026-2027 season; September listed after July, so read as 2027"
+   "note": "Broadway at the Bass series, 2026-2027 season"
   },
   {
    "company": "Bishop Arts Theatre Center",
@@ -167,7 +167,7 @@
    "title": "The Phantom of the Opera",
    "start_date": "2026-12-16",
    "end_date": "2027-01-03",
-   "venue": "Music Hall at Fair Park",
+   "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
    "note": ""
@@ -187,7 +187,7 @@
    "title": "Hell's Kitchen",
    "start_date": "2027-02-03",
    "end_date": "2027-02-14",
-   "venue": "Music Hall at Fair Park",
+   "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
    "note": ""
@@ -197,7 +197,7 @@
    "title": "Water for Elephants",
    "start_date": "2027-04-13",
    "end_date": "2027-04-25",
-   "venue": "Music Hall at Fair Park",
+   "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
    "note": ""
@@ -207,7 +207,7 @@
    "title": "Death Becomes Her",
    "start_date": "2027-05-11",
    "end_date": "2027-05-23",
-   "venue": "Music Hall at Fair Park",
+   "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
    "note": ""
@@ -217,7 +217,7 @@
    "title": "Harry Potter and the Cursed Child",
    "start_date": "2027-06-15",
    "end_date": "2027-06-27",
-   "venue": "Music Hall at Fair Park",
+   "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
    "note": ""
@@ -227,10 +227,10 @@
    "title": "Dr. Seuss' How the Grinch Stole Christmas! The Musical",
    "start_date": "2026-11-25",
    "end_date": "2026-11-29",
-   "venue": "Music Hall at Fair Park",
+   "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
-   "note": "Holiday show at end of list, read as the current season"
+   "note": "Holiday show listed at end of company's line"
   },
   {
    "company": "Broadway Dallas",
@@ -257,7 +257,7 @@
    "title": "The Book of Mormon",
    "start_date": "2027-06-01",
    "end_date": "2027-06-06",
-   "venue": "Music Hall at Fair Park",
+   "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
    "note": "Add-on show"
@@ -350,7 +350,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://echotheatre.org",
-   "note": "Workshop performances; full production is listed only as March with no day, so skipped"
+   "note": "Workshop performances; full production in March (no date listed)"
   },
   {
    "company": "Echo Theatre",
@@ -370,7 +370,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://fairassembly.com",
-   "note": "Part of the UnTangled Shakespeare Festival (in partnership w/ Fair Assembly). Line pairs two plays with two dates; read as Midsummer Jan 4 and Macbeth Jan 5, but it could mean each play runs both nights."
+   "note": "Part of the UnTangled Shakespeare Festival (in partnership w/ Fair Assembly). Paired with Macbeth on Jan 5; the line doesn't say which play falls on which date, so this pairing is my reading."
   },
   {
    "company": "Fair Assembly",
@@ -380,7 +380,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://fairassembly.com",
-   "note": "Part of the UnTangled Shakespeare Festival (in partnership w/ Fair Assembly). See note on A Midsummer Night's Dream about the date pairing."
+   "note": "Part of the UnTangled Shakespeare Festival (in partnership w/ Fair Assembly). Paired with A Midsummer Night's Dream on Jan 4; see note on that entry."
   },
   {
    "company": "The Firehouse Theatre",
@@ -460,47 +460,47 @@
    "venue": "",
    "premiere": "",
    "website": "https://jubileetheatre.org",
-   "note": "Season 45"
+   "note": "Listed as Season 45."
   },
   {
    "company": "Kitchen Dog Theater",
    "title": "Equivocation",
    "start_date": "2027-02-04",
    "end_date": "2027-02-28",
-   "venue": "",
+   "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Season 36. Company's new home is 4774 Algiers, Dallas; not stated as the venue for this show."
+   "note": "Venue is the company's new home address as stated in the line; Season 36. By Bill Cain."
   },
   {
    "company": "Kitchen Dog Theater",
    "title": "D-PAC PUP Fest",
    "start_date": "2027-06-06",
    "end_date": "2027-06-06",
-   "venue": "",
+   "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Festival listed in the season, single date."
+   "note": "Single-day event; year inferred from the season order."
   },
   {
    "company": "Kitchen Dog Theater",
    "title": "New Works Festival 2027",
    "start_date": "2027-06-13",
    "end_date": "2027-06-13",
-   "venue": "",
+   "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Festival, one of two listed nights."
+   "note": "One of two listed nights (June 13 & June 27)."
   },
   {
    "company": "Kitchen Dog Theater",
    "title": "New Works Festival 2027",
    "start_date": "2027-06-27",
    "end_date": "2027-06-27",
-   "venue": "",
+   "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Festival, one of two listed nights."
+   "note": "One of two listed nights (June 13 & June 27)."
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -510,7 +510,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": "2027 season"
+   "note": "2027 season."
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -520,7 +520,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": "2027 season"
+   "note": "2027 season."
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -530,7 +530,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": "2027 season"
+   "note": "2027 season."
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -540,7 +540,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": "2027 season"
+   "note": "2027 season."
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -550,7 +550,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": "2027 season"
+   "note": "2027 season."
   },
   {
    "company": "Lewisville Playhouse",
@@ -600,7 +600,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": "STAGE to SCREEN season"
+   "note": "Part of a 'STAGE to SCREEN' classics season."
   },
   {
    "company": "Mainstage Irving-Las Colinas",
@@ -610,7 +610,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": "STAGE to SCREEN season"
+   "note": "Part of a 'STAGE to SCREEN' classics season."
   },
   {
    "company": "Mainstage Irving-Las Colinas",
@@ -620,7 +620,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": "STAGE to SCREEN season"
+   "note": "Part of a 'STAGE to SCREEN' classics season."
   },
   {
    "company": "Mainstage Irving-Las Colinas",
@@ -630,7 +630,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": "STAGE to SCREEN season"
+   "note": "Part of a 'STAGE to SCREEN' classics season."
   },
   {
    "company": "NTPA Repertory Theatre",
@@ -660,7 +660,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://plazatheatre.com",
-   "note": "Listed run is November 20-December 23; already running, so start is today."
+   "note": "Run began November 20, 2026; already running, so start is today"
   },
   {
    "company": "Pocket Sandwich Theatre",
@@ -670,7 +670,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://pocketsandwich.com",
-   "note": "Improv, music, adult comedy nights and TBA shows have no dates and are skipped."
+   "note": "Improv, music, adult comedy nights and other shows are TBA and were skipped"
   },
   {
    "company": "Rover Dramawerks (Plano)",
@@ -680,7 +680,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://roverdramawerks.com",
-   "note": "2027 season. Playwright: Cat Delaney."
+   "note": "2027 season"
   },
   {
    "company": "Rover Dramawerks (Plano)",
@@ -690,7 +690,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://roverdramawerks.com",
-   "note": "2027 season. Playwright: Trish Vradenburg."
+   "note": "2027 season"
   },
   {
    "company": "Rover Dramawerks (Plano)",
@@ -700,7 +700,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://roverdramawerks.com",
-   "note": "2027 season."
+   "note": "2027 season"
   },
   {
    "company": "Rover Dramawerks (Plano)",
@@ -710,7 +710,7 @@
    "venue": "",
    "premiere": "world",
    "website": "https://roverdramawerks.com",
-   "note": "2027 season. Playwright: Arthur M. Jolly."
+   "note": "2027 season"
   },
   {
    "company": "Rover Dramawerks (Plano)",
@@ -720,7 +720,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://roverdramawerks.com",
-   "note": "2027 season."
+   "note": "2027 season"
   },
   {
    "company": "Rover Dramawerks (Plano)",
@@ -730,7 +730,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://roverdramawerks.com",
-   "note": "2027 season. Playwright: Robert Caisley."
+   "note": "2027 season"
   },
   {
    "company": "Second Thought Theatre",
@@ -740,7 +740,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://secondthoughttheatre.com",
-   "note": "Co-production with W. Stage West."
+   "note": "Co-production with W. Stage West; part of a season of partnerships"
   },
   {
    "company": "Shakespeare Dallas",
@@ -750,7 +750,7 @@
    "venue": "Theatre Three (arena stage)",
    "premiere": "",
    "website": "https://shakespearedallas.org",
-   "note": "Part of the Shakespeare in the Round series."
+   "note": "Part of the Shakespeare in the Round series"
   },
   {
    "company": "Soul Rep Theatre",
@@ -780,7 +780,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://stagewest.org",
-   "note": "Season 48 (2026-2027); season extra, back by audience demand"
+   "note": "Season extra, back by audience demand. Season 48 (2026-2027)."
   },
   {
    "company": "Stage West",
@@ -790,7 +790,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://stagewest.org",
-   "note": "Season 48 (2026-2027); co-production with Second Thought"
+   "note": "Co-production with Second Thought. Season 48 (2026-2027)."
   },
   {
    "company": "Stage West",
@@ -800,7 +800,7 @@
    "venue": "",
    "premiere": "world",
    "website": "https://stagewest.org",
-   "note": "Season 48 (2026-2027)"
+   "note": "Season 48 (2026-2027)."
   },
   {
    "company": "Stage West",
@@ -810,7 +810,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://stagewest.org",
-   "note": "Season 48 (2026-2027)"
+   "note": "Season 48 (2026-2027)."
   },
   {
    "company": "Stage West",
@@ -820,7 +820,7 @@
    "venue": "",
    "premiere": "regional",
    "website": "https://stagewest.org",
-   "note": "Season 48 (2026-2027)"
+   "note": "Season 48 (2026-2027)."
   },
   {
    "company": "Stage West",
@@ -830,7 +830,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://stagewest.org",
-   "note": "Season 48 (2026-2027)"
+   "note": "Season 48 (2026-2027)."
   },
   {
    "company": "Stolen Shakespeare Guild",
@@ -870,37 +870,37 @@
    "venue": "",
    "premiere": "",
    "website": "https://theatrefrisco.com",
-   "note": "Run had already ended before 2026-11-24"
+   "note": "Dates have already ended as of 2026-11-24."
   },
   {
    "company": "Theatre Three",
    "title": "Gremlins! (Mostly)",
    "start_date": "2026-12-03",
    "end_date": "2026-12-20",
-   "venue": "Main stage",
+   "venue": "",
    "premiere": "",
    "website": "https://theatre3dallas.com",
-   "note": "Season 2026-2027"
+   "note": "Main stage. Season 2026-2027."
   },
   {
    "company": "Theatre Three",
    "title": "Rumors",
    "start_date": "2027-03-11",
    "end_date": "2027-03-28",
-   "venue": "Main stage",
+   "venue": "",
    "premiere": "",
    "website": "https://theatre3dallas.com",
-   "note": "Season 2026-2027"
+   "note": "Main stage. Season 2026-2027."
   },
   {
    "company": "Theatre Three",
    "title": "Teeth",
    "start_date": "2027-06-03",
    "end_date": "2027-06-26",
-   "venue": "Main stage",
+   "venue": "",
    "premiere": "",
    "website": "https://theatre3dallas.com",
-   "note": "Season 2026-2027"
+   "note": "Main stage. Season 2026-2027."
   },
   {
    "company": "Theatre Three",
@@ -910,7 +910,7 @@
    "venue": "Downstairs @ Theatre Too",
    "premiere": "",
    "website": "https://theatre3dallas.com",
-   "note": "Season 2026-2027"
+   "note": "Season 2026-2027."
   },
   {
    "company": "Theatre Three",
@@ -920,7 +920,7 @@
    "venue": "Downstairs @ Theatre Too",
    "premiere": "",
    "website": "https://theatre3dallas.com",
-   "note": "Season 2026-2027"
+   "note": "Season 2026-2027."
   },
   {
    "company": "Undermain Theatre",
@@ -930,7 +930,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://www.undermain.org",
-   "note": "Season 43 (2026-'27); run had already ended before 2026-11-24"
+   "note": "Season 43 (2026-'27). Dates have already ended as of 2026-11-24."
   },
   {
    "company": "Undermain Theatre",
@@ -940,17 +940,17 @@
    "venue": "",
    "premiere": "regional",
    "website": "https://www.undermain.org",
-   "note": "Season 43 (2026-'27)"
+   "note": "Season 43 (2026-'27)."
   },
   {
    "company": "Undermain Theatre",
-   "title": "The Two-Character Play",
+   "title": "The Two-Character Play (Out Cry)",
    "start_date": "2027-05-22",
    "end_date": "2027-06-06",
    "venue": "",
    "premiere": "",
    "website": "https://www.undermain.org",
-   "note": "Season 43 (2026-'27); also listed as (Out Cry)"
+   "note": "Season 43 (2026-'27)."
   },
   {
    "company": "Upright Theatre Company",
@@ -960,7 +960,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://uprighttheatre.org",
-   "note": ""
+   "note": "Adult and youth productions."
   },
   {
    "company": "Uptown Players",
