@@ -1,6 +1,6 @@
 {
- "stamp": "77152a86860d9eff313df3c5d02575147c38878a",
- "updated": "2026-11-25T02:48:25.920316-06:00",
+ "stamp": "d5863cf32532ea8681816012255fe7ad78a44b4e",
+ "updated": "2026-11-25T15:49:38.752408-06:00",
  "shows": [
   {
    "company": "Allen Contemporary Theatre",
@@ -80,7 +80,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Add-on show, Broadway at the Bass series"
+   "note": "Broadway at the Bass 2026-2027 season, add-on show"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
@@ -90,7 +90,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Add-on show, Broadway at the Bass series"
+   "note": "Broadway at the Bass 2026-2027 season, add-on show"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
@@ -100,7 +100,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Broadway at the Bass series"
+   "note": "Broadway at the Bass 2026-2027 season"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
@@ -110,7 +110,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Broadway at the Bass series"
+   "note": "Broadway at the Bass 2026-2027 season"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
@@ -120,7 +120,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Broadway at the Bass series"
+   "note": "Broadway at the Bass 2026-2027 season"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
@@ -130,7 +130,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Broadway at the Bass series"
+   "note": "Broadway at the Bass 2026-2027 season"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
@@ -140,7 +140,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Broadway at the Bass series"
+   "note": "Broadway at the Bass 2026-2027 season"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
@@ -150,7 +150,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Broadway at the Bass series"
+   "note": "Broadway at the Bass 2026-2027 season"
   },
   {
    "company": "Bishop Arts Theatre Center",
@@ -230,7 +230,7 @@
    "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
-   "note": "Holiday engagement"
+   "note": "Holiday special listed at end of line"
   },
   {
    "company": "Broadway Dallas",
@@ -350,7 +350,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://echotheatre.org",
-   "note": "Workshop performances; full production in March (no date given)"
+   "note": "Workshop performances (listed as Workshop for Eva Luna); full production listed only as 'in March', so not included"
   },
   {
    "company": "Echo Theatre",
@@ -370,27 +370,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://fairassembly.com",
-   "note": "Part of the UnTangled Shakespeare Festival (in partnership w/ Fair Assembly). Line lists both plays for January 4 and 5 without pairing them, so each play is listed for both nights."
-  },
-  {
-   "company": "Fair Assembly",
-   "title": "A Midsummer Night's Dream",
-   "start_date": "2027-01-05",
-   "end_date": "2027-01-05",
-   "venue": "",
-   "premiere": "",
-   "website": "https://fairassembly.com",
-   "note": "Part of the UnTangled Shakespeare Festival (in partnership w/ Fair Assembly). Line lists both plays for January 4 and 5 without pairing them, so each play is listed for both nights."
-  },
-  {
-   "company": "Fair Assembly",
-   "title": "Macbeth",
-   "start_date": "2027-01-04",
-   "end_date": "2027-01-04",
-   "venue": "",
-   "premiere": "",
-   "website": "https://fairassembly.com",
-   "note": "Part of the UnTangled Shakespeare Festival (in partnership w/ Fair Assembly). Line lists both plays for January 4 and 5 without pairing them, so each play is listed for both nights."
+   "note": "Part of the UnTangled Shakespeare Festival (in partnership w/ Fair Assembly). The line pairs two plays with two dates; I read it as Midsummer on Jan 4 and Macbeth on Jan 5."
   },
   {
    "company": "Fair Assembly",
@@ -400,7 +380,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://fairassembly.com",
-   "note": "Part of the UnTangled Shakespeare Festival (in partnership w/ Fair Assembly). Line lists both plays for January 4 and 5 without pairing them, so each play is listed for both nights."
+   "note": "Part of the UnTangled Shakespeare Festival (in partnership w/ Fair Assembly). See note on Midsummer date pairing."
   },
   {
    "company": "The Firehouse Theatre",
@@ -480,7 +460,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://jubileetheatre.org",
-   "note": "Season 45"
+   "note": "Listed as Season 45."
   },
   {
    "company": "Kitchen Dog Theater",
@@ -490,7 +470,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Season 36. Venue is the company's new home as stated at the top of the line."
+   "note": "Line describes this as the company's new home."
   },
   {
    "company": "Kitchen Dog Theater",
@@ -500,7 +480,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Venue is the company's new home as stated at the top of the line."
+   "note": "Festival listed within Season 36."
   },
   {
    "company": "Kitchen Dog Theater",
@@ -510,7 +490,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Venue is the company's new home as stated at the top of the line."
+   "note": ""
   },
   {
    "company": "Kitchen Dog Theater",
@@ -520,7 +500,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Venue is the company's new home as stated at the top of the line."
+   "note": ""
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -530,7 +510,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": "2027 season"
+   "note": ""
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -540,7 +520,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": "2027 season"
+   "note": ""
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -550,7 +530,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": "2027 season"
+   "note": ""
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -560,7 +540,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": "2027 season"
+   "note": ""
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -570,7 +550,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": "2027 season"
+   "note": ""
   },
   {
    "company": "Lewisville Playhouse",
@@ -620,7 +600,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": "STAGE to SCREEN season"
+   "note": "Part of a 'STAGE to SCREEN' classics season."
   },
   {
    "company": "Mainstage Irving-Las Colinas",
@@ -630,7 +610,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": "STAGE to SCREEN season"
+   "note": "Part of a 'STAGE to SCREEN' classics season."
   },
   {
    "company": "Mainstage Irving-Las Colinas",
@@ -640,7 +620,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": "STAGE to SCREEN season"
+   "note": "Part of a 'STAGE to SCREEN' classics season."
   },
   {
    "company": "Mainstage Irving-Las Colinas",
@@ -650,7 +630,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": "STAGE to SCREEN season"
+   "note": "Part of a 'STAGE to SCREEN' classics season."
   },
   {
    "company": "NTPA Repertory Theatre",
@@ -675,12 +655,12 @@
   {
    "company": "Plaza Theatre (Cleburne)",
    "title": "A Christmas Carol",
-   "start_date": "2026-11-25",
+   "start_date": "2026-11-20",
    "end_date": "2026-12-23",
    "venue": "",
    "premiere": "",
    "website": "https://plazatheatre.com",
-   "note": "Run began 2026-11-20, already running; start set to today"
+   "note": ""
   },
   {
    "company": "Pocket Sandwich Theatre",
@@ -690,7 +670,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://pocketsandwich.com",
-   "note": "Improv, music, adult comedy nights and other shows are TBA and omitted"
+   "note": "Improv, music, adult comedy nights and TBA shows are listed on the website without dates, so they are omitted."
   },
   {
    "company": "Rover Dramawerks (Plano)",
@@ -760,7 +740,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://secondthoughttheatre.com",
-   "note": "Co-production with W. Stage West; part of a season of partnerships"
+   "note": "Co-production with W. Stage West"
   },
   {
    "company": "Shakespeare Dallas",
@@ -770,7 +750,7 @@
    "venue": "Theatre Three (arena stage)",
    "premiere": "",
    "website": "https://shakespearedallas.org",
-   "note": "Part of the 'Shakespeare in the Round' series"
+   "note": "Shakespeare in the Round"
   },
   {
    "company": "Soul Rep Theatre",
@@ -800,7 +780,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://stagewest.org",
-   "note": "Season 48 extra, back by audience demand"
+   "note": "Season extra, back by audience demand"
   },
   {
    "company": "Stage West",
@@ -890,7 +870,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://theatrefrisco.com",
-   "note": "Run ended before today (2026-11-25); dates read as 2026"
+   "note": "Dates are already past as of 2026-11-25"
   },
   {
    "company": "Theatre Three",
@@ -950,7 +930,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://www.undermain.org",
-   "note": "Run ended before today (2026-11-25); dates read as 2026"
+   "note": "Dates are already past as of 2026-11-25"
   },
   {
    "company": "Undermain Theatre",
@@ -980,7 +960,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://uprighttheatre.org",
-   "note": ""
+   "note": "Adult and youth productions"
   },
   {
    "company": "Uptown Players",
