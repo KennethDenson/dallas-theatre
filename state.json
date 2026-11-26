@@ -1,6 +1,6 @@
 {
- "stamp": "d5863cf32532ea8681816012255fe7ad78a44b4e",
- "updated": "2026-11-25T15:49:38.752408-06:00",
+ "stamp": "a28d1262cbd75f580454af5a0449dc3554c6e280",
+ "updated": "2026-11-26T02:34:04.793751-06:00",
  "shows": [
   {
    "company": "Allen Contemporary Theatre",
@@ -80,7 +80,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Broadway at the Bass 2026-2027 season, add-on show"
+   "note": "Add-on show; Broadway at the Bass 2026-2027 season"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
@@ -90,7 +90,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://basshall.com",
-   "note": "Broadway at the Bass 2026-2027 season, add-on show"
+   "note": "Add-on show; Broadway at the Bass 2026-2027 season"
   },
   {
    "company": "Bass Performance Hall (Performing Arts Fort Worth)",
@@ -230,7 +230,7 @@
    "venue": "Music Hall in Fair Park",
    "premiere": "",
    "website": "https://broadwaydallas.org",
-   "note": "Holiday special listed at end of line"
+   "note": "Holiday show listed at end of line"
   },
   {
    "company": "Broadway Dallas",
@@ -350,7 +350,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://echotheatre.org",
-   "note": "Workshop performances (listed as Workshop for Eva Luna); full production listed only as 'in March', so not included"
+   "note": "Workshop performances; full production listed for March (no day given)"
   },
   {
    "company": "Echo Theatre",
@@ -370,7 +370,27 @@
    "venue": "",
    "premiere": "",
    "website": "https://fairassembly.com",
-   "note": "Part of the UnTangled Shakespeare Festival (in partnership w/ Fair Assembly). The line pairs two plays with two dates; I read it as Midsummer on Jan 4 and Macbeth on Jan 5."
+   "note": "Part of the UnTangled Shakespeare Festival (in partnership w/ Fair Assembly). Line reads 'January 4 and 5, 2027' without saying which play runs which night, so each play is listed for both nights."
+  },
+  {
+   "company": "Fair Assembly",
+   "title": "A Midsummer Night's Dream",
+   "start_date": "2027-01-05",
+   "end_date": "2027-01-05",
+   "venue": "",
+   "premiere": "",
+   "website": "https://fairassembly.com",
+   "note": "Part of the UnTangled Shakespeare Festival (in partnership w/ Fair Assembly). Line reads 'January 4 and 5, 2027' without saying which play runs which night, so each play is listed for both nights."
+  },
+  {
+   "company": "Fair Assembly",
+   "title": "Macbeth",
+   "start_date": "2027-01-04",
+   "end_date": "2027-01-04",
+   "venue": "",
+   "premiere": "",
+   "website": "https://fairassembly.com",
+   "note": "Part of the UnTangled Shakespeare Festival (in partnership w/ Fair Assembly). Line reads 'January 4 and 5, 2027' without saying which play runs which night, so each play is listed for both nights."
   },
   {
    "company": "Fair Assembly",
@@ -380,7 +400,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://fairassembly.com",
-   "note": "Part of the UnTangled Shakespeare Festival (in partnership w/ Fair Assembly). See note on Midsummer date pairing."
+   "note": "Part of the UnTangled Shakespeare Festival (in partnership w/ Fair Assembly). Line reads 'January 4 and 5, 2027' without saying which play runs which night, so each play is listed for both nights."
   },
   {
    "company": "The Firehouse Theatre",
@@ -460,7 +480,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://jubileetheatre.org",
-   "note": "Listed as Season 45."
+   "note": "Season 45."
   },
   {
    "company": "Kitchen Dog Theater",
@@ -470,7 +490,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Line describes this as the company's new home."
+   "note": "Season 36; line says 'In their new home @ 4774 Algiers, Dallas', applied here as the venue. Playwright: Bill Cain."
   },
   {
    "company": "Kitchen Dog Theater",
@@ -480,7 +500,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": "Festival listed within Season 36."
+   "note": "Festival, not a play. Venue taken from the company's 'new home' note."
   },
   {
    "company": "Kitchen Dog Theater",
@@ -490,7 +510,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": ""
+   "note": "Festival. Venue taken from the company's 'new home' note."
   },
   {
    "company": "Kitchen Dog Theater",
@@ -500,7 +520,7 @@
    "venue": "4774 Algiers, Dallas",
    "premiere": "",
    "website": "https://kitchendogtheater.org",
-   "note": ""
+   "note": "Festival. Venue taken from the company's 'new home' note."
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -510,7 +530,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": ""
+   "note": "2027 season."
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -520,7 +540,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": ""
+   "note": "2027 season."
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -530,7 +550,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": ""
+   "note": "2027 season."
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -540,7 +560,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": ""
+   "note": "2027 season."
   },
   {
    "company": "Lakeside Community Theatre (The Colony)",
@@ -550,7 +570,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://lctthecolony.com",
-   "note": ""
+   "note": "2027 season."
   },
   {
    "company": "Lewisville Playhouse",
@@ -600,7 +620,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": "Part of a 'STAGE to SCREEN' classics season."
+   "note": "Part of a 'STAGE to SCREEN' season."
   },
   {
    "company": "Mainstage Irving-Las Colinas",
@@ -610,7 +630,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": "Part of a 'STAGE to SCREEN' classics season."
+   "note": "Part of a 'STAGE to SCREEN' season."
   },
   {
    "company": "Mainstage Irving-Las Colinas",
@@ -620,7 +640,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": "Part of a 'STAGE to SCREEN' classics season."
+   "note": "Part of a 'STAGE to SCREEN' season."
   },
   {
    "company": "Mainstage Irving-Las Colinas",
@@ -630,7 +650,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://mainstageirving.com",
-   "note": "Part of a 'STAGE to SCREEN' classics season."
+   "note": "Part of a 'STAGE to SCREEN' season."
   },
   {
    "company": "NTPA Repertory Theatre",
@@ -660,7 +680,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://plazatheatre.com",
-   "note": ""
+   "note": "Already running; listed run began November 20."
   },
   {
    "company": "Pocket Sandwich Theatre",
@@ -670,67 +690,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://pocketsandwich.com",
-   "note": "Improv, music, adult comedy nights and TBA shows are listed on the website without dates, so they are omitted."
-  },
-  {
-   "company": "Rover Dramawerks (Plano)",
-   "title": "Welfarewell",
-   "start_date": "2027-01-14",
-   "end_date": "2027-01-31",
-   "venue": "",
-   "premiere": "",
-   "website": "https://roverdramawerks.com",
-   "note": "2027 season; by Cat Delaney"
-  },
-  {
-   "company": "Rover Dramawerks (Plano)",
-   "title": "Surviving Grace",
-   "start_date": "2027-03-04",
-   "end_date": "2027-03-21",
-   "venue": "",
-   "premiere": "",
-   "website": "https://roverdramawerks.com",
-   "note": "2027 season; by Trish Vradenburg"
-  },
-  {
-   "company": "Rover Dramawerks (Plano)",
-   "title": "One Day Only 33",
-   "start_date": "2027-05-01",
-   "end_date": "2027-05-01",
-   "venue": "",
-   "premiere": "",
-   "website": "https://roverdramawerks.com",
-   "note": "2027 season"
-  },
-  {
-   "company": "Rover Dramawerks (Plano)",
-   "title": "The Mysterious Disappearance of Agatha Christie",
-   "start_date": "2027-06-03",
-   "end_date": "2027-06-09",
-   "venue": "",
-   "premiere": "world",
-   "website": "https://roverdramawerks.com",
-   "note": "2027 season; by Arthur M. Jolly"
-  },
-  {
-   "company": "Rover Dramawerks (Plano)",
-   "title": "10-Minute Comedies",
-   "start_date": "2027-07-29",
-   "end_date": "2027-08-15",
-   "venue": "",
-   "premiere": "",
-   "website": "https://roverdramawerks.com",
-   "note": "2027 season"
-  },
-  {
-   "company": "Rover Dramawerks (Plano)",
-   "title": "Lucky Me",
-   "start_date": "2027-09-09",
-   "end_date": "2027-09-26",
-   "venue": "",
-   "premiere": "",
-   "website": "https://roverdramawerks.com",
-   "note": "2027 season; by Robert Caisley"
+   "note": "Other nights (improv, music, adult comedy) and TBA shows are not dated and are omitted."
   },
   {
    "company": "Second Thought Theatre",
@@ -740,7 +700,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://secondthoughttheatre.com",
-   "note": "Co-production with W. Stage West"
+   "note": "Co-production with W. Stage West."
   },
   {
    "company": "Shakespeare Dallas",
@@ -750,7 +710,67 @@
    "venue": "Theatre Three (arena stage)",
    "premiere": "",
    "website": "https://shakespearedallas.org",
-   "note": "Shakespeare in the Round"
+   "note": "Shakespeare in the Round season."
+  },
+  {
+   "company": "Rover Dramawerks (Plano)",
+   "title": "Welfarewell",
+   "start_date": "2027-01-14",
+   "end_date": "2027-01-31",
+   "venue": "",
+   "premiere": "",
+   "website": "https://roverdramawerks.com",
+   "note": "2027 season."
+  },
+  {
+   "company": "Rover Dramawerks (Plano)",
+   "title": "Surviving Grace",
+   "start_date": "2027-03-04",
+   "end_date": "2027-03-21",
+   "venue": "",
+   "premiere": "",
+   "website": "https://roverdramawerks.com",
+   "note": "2027 season."
+  },
+  {
+   "company": "Rover Dramawerks (Plano)",
+   "title": "One Day Only 33",
+   "start_date": "2027-05-01",
+   "end_date": "2027-05-01",
+   "venue": "",
+   "premiere": "",
+   "website": "https://roverdramawerks.com",
+   "note": "2027 season."
+  },
+  {
+   "company": "Rover Dramawerks (Plano)",
+   "title": "The Mysterious Disappearance of Agatha Christie",
+   "start_date": "2027-06-03",
+   "end_date": "2027-06-09",
+   "venue": "",
+   "premiere": "world",
+   "website": "https://roverdramawerks.com",
+   "note": "2027 season."
+  },
+  {
+   "company": "Rover Dramawerks (Plano)",
+   "title": "10-Minute Comedies",
+   "start_date": "2027-07-29",
+   "end_date": "2027-08-15",
+   "venue": "",
+   "premiere": "",
+   "website": "https://roverdramawerks.com",
+   "note": "2027 season."
+  },
+  {
+   "company": "Rover Dramawerks (Plano)",
+   "title": "Lucky Me",
+   "start_date": "2027-09-09",
+   "end_date": "2027-09-26",
+   "venue": "",
+   "premiere": "",
+   "website": "https://roverdramawerks.com",
+   "note": "2027 season."
   },
   {
    "company": "Soul Rep Theatre",
@@ -830,7 +850,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://stagewest.org",
-   "note": ""
+   "note": "Listed after June 2027 in the season, so August 2027"
   },
   {
    "company": "Stolen Shakespeare Guild",
@@ -870,7 +890,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://theatrefrisco.com",
-   "note": "Dates are already past as of 2026-11-25"
+   "note": "Already closed as of 2026-11-26"
   },
   {
    "company": "Theatre Three",
@@ -907,7 +927,7 @@
    "title": "Dear Jack, Dear Louise",
    "start_date": "2027-02-04",
    "end_date": "2027-02-21",
-   "venue": "Theatre Too (downstairs)",
+   "venue": "Downstairs @ Theatre Too",
    "premiere": "",
    "website": "https://theatre3dallas.com",
    "note": ""
@@ -917,7 +937,7 @@
    "title": "Miss Margarida's Way",
    "start_date": "2027-04-29",
    "end_date": "2027-05-16",
-   "venue": "Theatre Too (downstairs)",
+   "venue": "Downstairs @ Theatre Too",
    "premiere": "",
    "website": "https://theatre3dallas.com",
    "note": ""
@@ -930,7 +950,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://www.undermain.org",
-   "note": "Dates are already past as of 2026-11-25"
+   "note": "Already closed as of 2026-11-26"
   },
   {
    "company": "Undermain Theatre",
@@ -960,7 +980,7 @@
    "venue": "",
    "premiere": "",
    "website": "https://uprighttheatre.org",
-   "note": "Adult and youth productions"
+   "note": "Adult & youth productions company"
   },
   {
    "company": "Uptown Players",
